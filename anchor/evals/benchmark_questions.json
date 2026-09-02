@@ -1,0 +1,564 @@
+[
+  {
+    "id": "Q01",
+    "archetype": "STRUCTURED",
+    "question": "What is the financial power of Fleet Commander (Tier 3) under Schedule 7 with IFA?",
+    "expected_answer_keywords": [
+      "18.00 Crore",
+      "Schedule 07",
+      "Tier 3"
+    ],
+    "expected_abstained": false,
+    "schedule_no": 7,
+    "tier": "Tier 3",
+    "with_ifa": true
+  },
+  {
+    "id": "Q02",
+    "archetype": "STRUCTURED",
+    "question": "What is the sanction limit for CNS (Tier 1) under Schedule 1 without IFA concurrence?",
+    "expected_answer_keywords": [
+      "25.00 Crore",
+      "Tier 1"
+    ],
+    "expected_abstained": false,
+    "schedule_no": 1,
+    "tier": "Tier 1",
+    "with_ifa": false
+  },
+  {
+    "id": "Q03",
+    "archetype": "STRUCTURED",
+    "question": "What is the financial delegation for FOC-in-C under Schedule 3 with IFA concurrence?",
+    "expected_answer_keywords": [
+      "50.00 Crore",
+      "Schedule 03",
+      "Tier 2"
+    ],
+    "expected_abstained": false,
+    "schedule_no": 3,
+    "tier": "Tier 2",
+    "with_ifa": true
+  },
+  {
+    "id": "Q04",
+    "archetype": "STRUCTURED",
+    "question": "What is the power of Tier 4 Commodore under Schedule 8 without IFA?",
+    "expected_answer_keywords": [
+      "0.50 Crore",
+      "Tier 4"
+    ],
+    "expected_abstained": false,
+    "schedule_no": 8,
+    "tier": "Tier 4",
+    "with_ifa": false
+  },
+  {
+    "id": "Q05",
+    "archetype": "STRUCTURED",
+    "question": "What is the sanction limit for Commanding Officer (Tier 5) under Schedule 10 with IFA?",
+    "expected_answer_keywords": [
+      "1.00 Crore",
+      "Tier 5"
+    ],
+    "expected_abstained": false,
+    "schedule_no": 10,
+    "tier": "Tier 5",
+    "with_ifa": true
+  },
+  {
+    "id": "Q06",
+    "archetype": "STRUCTURED",
+    "question": "What is the financial limit for ASD under Schedule 4 with IFA?",
+    "expected_answer_keywords": [
+      "30.00 Crore",
+      "Tier 3"
+    ],
+    "expected_abstained": false,
+    "schedule_no": 4,
+    "tier": "Tier 3",
+    "with_ifa": true
+  },
+  {
+    "id": "Q07",
+    "archetype": "STRUCTURED",
+    "question": "What is the delegation for Tier 6 Officers under Schedule 12 without IFA?",
+    "expected_answer_keywords": [
+      "0.05 Crore",
+      "Tier 6"
+    ],
+    "expected_abstained": false,
+    "schedule_no": 12,
+    "tier": "Tier 6",
+    "with_ifa": false
+  },
+  {
+    "id": "Q08",
+    "archetype": "STRUCTURED",
+    "question": "What is the power of CNS (Tier 1) under Schedule 5 with IFA?",
+    "expected_answer_keywords": [
+      "100.00 Crore",
+      "Tier 1"
+    ],
+    "expected_abstained": false,
+    "schedule_no": 5,
+    "tier": "Tier 1",
+    "with_ifa": true
+  },
+  {
+    "id": "Q09",
+    "archetype": "STRUCTURED",
+    "question": "What is the financial power of Fleet Commander under Schedule 9 without IFA?",
+    "expected_answer_keywords": [
+      "1.00 Crore",
+      "Tier 3"
+    ],
+    "expected_abstained": false,
+    "schedule_no": 9,
+    "tier": "Tier 3",
+    "with_ifa": false
+  },
+  {
+    "id": "Q10",
+    "archetype": "STRUCTURED",
+    "question": "What is the limit for FOC-in-C under Schedule 11 with IFA?",
+    "expected_answer_keywords": [
+      "25.00 Crore",
+      "Tier 2"
+    ],
+    "expected_abstained": false,
+    "schedule_no": 11,
+    "tier": "Tier 2",
+    "with_ifa": true
+  },
+  {
+    "id": "Q11",
+    "archetype": "STRUCTURED",
+    "question": "What is the financial power of Tier 3 under Schedule 14 with IFA?",
+    "expected_answer_keywords": [
+      "15.00 Crore",
+      "Tier 3"
+    ],
+    "expected_abstained": false,
+    "schedule_no": 14,
+    "tier": "Tier 3",
+    "with_ifa": true
+  },
+  {
+    "id": "Q12",
+    "archetype": "STRUCTURED",
+    "question": "What is the delegation for Tier 2 under Schedule 15 without IFA?",
+    "expected_answer_keywords": [
+      "5.00 Crore",
+      "Tier 2"
+    ],
+    "expected_abstained": false,
+    "schedule_no": 15,
+    "tier": "Tier 2",
+    "with_ifa": false
+  },
+  {
+    "id": "Q13",
+    "archetype": "STRUCTURED",
+    "question": "What is the sanction limit of Tier 4 under Schedule 16 with IFA?",
+    "expected_answer_keywords": [
+      "3.00 Crore",
+      "Tier 4"
+    ],
+    "expected_abstained": false,
+    "schedule_no": 16,
+    "tier": "Tier 4",
+    "with_ifa": true
+  },
+  {
+    "id": "Q14",
+    "archetype": "STRUCTURED",
+    "question": "What is the power of Tier 5 under Schedule 18 with IFA?",
+    "expected_answer_keywords": [
+      "0.75 Crore",
+      "Tier 5"
+    ],
+    "expected_abstained": false,
+    "schedule_no": 18,
+    "tier": "Tier 5",
+    "with_ifa": true
+  },
+  {
+    "id": "Q15",
+    "archetype": "STRUCTURED",
+    "question": "What is the financial limit for CNS (Tier 1) under Schedule 20 with IFA?",
+    "expected_answer_keywords": [
+      "50.00 Crore",
+      "Tier 1"
+    ],
+    "expected_abstained": false,
+    "schedule_no": 20,
+    "tier": "Tier 1",
+    "with_ifa": true
+  },
+  {
+    "id": "Q16",
+    "archetype": "COMPARATIVE",
+    "question": "Compare financial powers of Tier 3 under Schedule 7 and Schedule 8 with IFA.",
+    "expected_answer_keywords": [
+      "Schedule 07",
+      "Schedule 08",
+      "Tier 3"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q17",
+    "archetype": "COMPARATIVE",
+    "question": "Compare delegations for Fleet Commander under Schedule 3 and Schedule 4 with IFA.",
+    "expected_answer_keywords": [
+      "Schedule 03",
+      "Schedule 04"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q18",
+    "archetype": "COMPARATIVE",
+    "question": "Compare sanction limits for CNS under Schedule 1 and Schedule 2 with IFA.",
+    "expected_answer_keywords": [
+      "Schedule 01",
+      "Schedule 02",
+      "Tier 1"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q19",
+    "archetype": "COMPARATIVE",
+    "question": "Compare financial powers of Tier 2 under Schedule 9 and Schedule 10 without IFA.",
+    "expected_answer_keywords": [
+      "Schedule 09",
+      "Schedule 10",
+      "Tier 2"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q20",
+    "archetype": "COMPARATIVE",
+    "question": "Compare Tier 4 powers under Schedule 5 and Schedule 6 with IFA.",
+    "expected_answer_keywords": [
+      "Schedule 05",
+      "Schedule 06"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q21",
+    "archetype": "COMPARATIVE",
+    "question": "Compare powers of Tier 5 under Schedule 11 and Schedule 12 with IFA.",
+    "expected_answer_keywords": [
+      "Schedule 11",
+      "Schedule 12"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q22",
+    "archetype": "COMPARATIVE",
+    "question": "Compare delegations for Tier 3 under Schedule 15 and Schedule 16 with IFA.",
+    "expected_answer_keywords": [
+      "Schedule 15",
+      "Schedule 16"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q23",
+    "archetype": "THRESHOLD",
+    "question": "What is the threshold for Open Tender Enquiry under DPM 2025?",
+    "expected_answer_keywords": [
+      "25 Lakh",
+      "Open Tender"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q24",
+    "archetype": "THRESHOLD",
+    "question": "What is the maximum limit for Limited Tender Enquiry under DPM 2025?",
+    "expected_answer_keywords": [
+      "25 Lakh",
+      "LTE"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q25",
+    "archetype": "THRESHOLD",
+    "question": "What is the threshold for Global Tender Enquiry (GTE) under DPM 2025?",
+    "expected_answer_keywords": [
+      "200 Crore",
+      "GTE"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q26",
+    "archetype": "THRESHOLD",
+    "question": "What is the standard Performance Bank Guarantee (PBG) percentage under DPM 2025?",
+    "expected_answer_keywords": [
+      "3%",
+      "5%",
+      "PBG"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q27",
+    "archetype": "THRESHOLD",
+    "question": "What is the maximum Liquidated Damages (LD) ceiling percentage under DPM?",
+    "expected_answer_keywords": [
+      "10%",
+      "LD"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q28",
+    "archetype": "THRESHOLD",
+    "question": "What is the PAC procurement threshold for Tier 3 under DFPDS?",
+    "expected_answer_keywords": [
+      "PAC",
+      "limit"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q29",
+    "archetype": "THRESHOLD",
+    "question": "What is the repeat order limit percentage under DPM 2025?",
+    "expected_answer_keywords": [
+      "50%",
+      "repeat order"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q30",
+    "archetype": "THRESHOLD",
+    "question": "What is the option clause limit under standard defence contracts?",
+    "expected_answer_keywords": [
+      "50%",
+      "option clause"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q31",
+    "archetype": "INTERPRETIVE",
+    "question": "What is the statutory procedure for constitution of a Technical Evaluation Committee under DPM 2025?",
+    "expected_answer_keywords": [
+      "TEC",
+      "evaluation",
+      "procurement"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q32",
+    "archetype": "INTERPRETIVE",
+    "question": "Explain the statutory requirement of CNC negotiations under DPM 2025.",
+    "expected_answer_keywords": [
+      "CNC",
+      "negotiation",
+      "L1"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q33",
+    "archetype": "INTERPRETIVE",
+    "question": "What are the statutory provisions governing Single Tender Enquiry on PAC grounds?",
+    "expected_answer_keywords": [
+      "STE",
+      "PAC",
+      "certificate"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q34",
+    "archetype": "INTERPRETIVE",
+    "question": "What is the procedure for emergency procurement during operational deployment?",
+    "expected_answer_keywords": [
+      "emergency",
+      "operational",
+      "sanction"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q35",
+    "archetype": "INTERPRETIVE",
+    "question": "Explain the role of IFA in financial vetting and concurrence.",
+    "expected_answer_keywords": [
+      "IFA",
+      "concurrence",
+      "vetting"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q36",
+    "archetype": "INTERPRETIVE",
+    "question": "What are the statutory conditions for two-bid tender evaluation in naval contracts?",
+    "expected_answer_keywords": [
+      "two-bid",
+      "technical",
+      "commercial"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q37",
+    "archetype": "INTERPRETIVE",
+    "question": "Explain the procedure for offloading refit tasks to commercial yards under Schedule 4.",
+    "expected_answer_keywords": [
+      "refit",
+      "offloading",
+      "dockyard"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q38",
+    "archetype": "INTERPRETIVE",
+    "question": "What are the rules regarding Earnest Money Deposit (EMD) exemptions for MSEs?",
+    "expected_answer_keywords": [
+      "EMD",
+      "MSE",
+      "exemption"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q39",
+    "archetype": "INTERPRETIVE",
+    "question": "Explain the statutory liability under Navy Act for improper store disposal.",
+    "expected_answer_keywords": [
+      "Navy Act",
+      "stores",
+      "disposal"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q40",
+    "archetype": "INTERPRETIVE",
+    "question": "What are the guidelines for warranty claims and latent defects under DPM?",
+    "expected_answer_keywords": [
+      "warranty",
+      "defect",
+      "claim"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q41",
+    "archetype": "ABSTENTION",
+    "question": "What is the financial power under Schedule 99 for Fleet Commander?",
+    "expected_answer_keywords": [],
+    "expected_abstained": true
+  },
+  {
+    "id": "Q42",
+    "archetype": "ABSTENTION",
+    "question": "What is the recipe for preparing Navy mess stew?",
+    "expected_answer_keywords": [],
+    "expected_abstained": true
+  },
+  {
+    "id": "Q43",
+    "archetype": "ABSTENTION",
+    "question": "What are the rules of cricket according to ICC guidelines?",
+    "expected_answer_keywords": [],
+    "expected_abstained": true
+  },
+  {
+    "id": "Q44",
+    "archetype": "ABSTENTION",
+    "question": "What is the financial delegation under Schedule 50 for CNS?",
+    "expected_answer_keywords": [],
+    "expected_abstained": true
+  },
+  {
+    "id": "Q45",
+    "archetype": "ABSTENTION",
+    "question": "Explain how to book a flight on Indian Railways IRCTC portal.",
+    "expected_answer_keywords": [],
+    "expected_abstained": true
+  },
+  {
+    "id": "Q46",
+    "archetype": "MULTI_LANGUAGE",
+    "question": "अनुसूची 7 के तहत फ्लैग ऑफिसर की वित्तीय शक्तियां क्या हैं?",
+    "expected_answer_keywords": [
+      "18.00 Crore",
+      "Schedule 07"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q47",
+    "archetype": "MULTI_LANGUAGE",
+    "question": "नौसेना प्रमुख की अनुसूची 1 के तहत बिना आईएफए क्या स्वीकृति सीमा है?",
+    "expected_answer_keywords": [
+      "25.00 Crore",
+      "Tier 1"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q48",
+    "archetype": "MULTI_LANGUAGE",
+    "question": "कमांडिंग ऑफिसर के लिए अनुसूची 10 में आईएफए के साथ वित्तीय अधिकार क्या हैं?",
+    "expected_answer_keywords": [
+      "1.00 Crore",
+      "Tier 5"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q49",
+    "archetype": "MULTI_LANGUAGE",
+    "question": "डीपीएम 2025 के तहत खुली निविदा की सीमा क्या है?",
+    "expected_answer_keywords": [
+      "25 Lakh"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q50",
+    "archetype": "MULTI_LANGUAGE",
+    "question": "एकल निविदा के लिए पीएसी प्रमाण पत्र की आवश्यकता क्या है?",
+    "expected_answer_keywords": [
+      "PAC",
+      "STE"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q51",
+    "archetype": "MULTI_LANGUAGE",
+    "question": "अनुसूची 4 के तहत जहाज मरम्मत के लिए वित्तीय शक्तियां क्या हैं?",
+    "expected_answer_keywords": [
+      "Schedule 04",
+      "repairs"
+    ],
+    "expected_abstained": false
+  },
+  {
+    "id": "Q52",
+    "archetype": "MULTI_LANGUAGE",
+    "question": "अनुसूची 99 के तहत क्या अधिकार हैं?",
+    "expected_answer_keywords": [],
+    "expected_abstained": true
+  }
+]
