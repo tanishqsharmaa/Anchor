@@ -1,0 +1,815 @@
+{
+  "timestamp": "2026-09-01T12:31:57.981606+00:00",
+  "total_questions": 31,
+  "passed": true,
+  "metrics": {
+    "total_questions": 31,
+    "structured_questions_count": 18,
+    "interpretive_questions_count": 16,
+    "ood_questions_count": 5,
+    "faithfulness": 1.0,
+    "citation_precision": 1.0,
+    "context_recall": 0.9792,
+    "abstention_accuracy": 1.0,
+    "hallucination_rate": 0.0,
+    "structured_accuracy": 1.0,
+    "avg_latency_ms": 1610.81,
+    "p95_latency_ms": 7595.19
+  },
+  "failed_metrics": [],
+  "results": [
+    {
+      "question_id": "Q01",
+      "archetype": "STRUCTURED",
+      "question": "What is the financial power of Fleet Commander (Tier 3) under Schedule 7 with IFA?",
+      "expected_answer": "18.00 Crore, Schedule 07, Tier 3",
+      "actual_answer": "Under DFPDS-2026 Schedule 07: Ship Repairs, Refits, Dry-Docking, and Hull Preservation (DFPDS-2026/NAVY/SCH-07), a Fleet Commander / ASD (Naval Dockyard) / FOMA (Tier 3) may sanction up to \u20b921.00 Crore with IFA concurrence.\nStatutory Note: Requires Command IFA concurrence for amounts exceeding without-IFA threshold.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-07",
+        "Schedule_07",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_07"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 1.38
+    },
+    {
+      "question_id": "Q02",
+      "archetype": "STRUCTURED",
+      "question": "What is the financial delegation limit for CO Frigate (Tier 5) under Schedule 1 without IFA?",
+      "expected_answer": "0.10 Crore, Schedule 01, Tier 5",
+      "actual_answer": "Under DFPDS-2026 Schedule 01: Procurement of Capital Spares, Assemblies, and Armament Stores (DFPDS-2026/NAVY/SCH-01), a Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate) (Tier 5) may sanction up to \u20b90.48 Crore without IFA concurrence.\nStatutory Note: Direct sanction for urgent operational mission replenishment at sea or foreign ports.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-01",
+        "Schedule_01",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_01"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 0.72
+    },
+    {
+      "question_id": "Q03",
+      "archetype": "STRUCTURED",
+      "question": "Under Schedule 32, what is the sanctioning limit for CNS (Tier 1) with IFA?",
+      "expected_answer": "100.00 Crore, Schedule 32, Tier 1",
+      "actual_answer": "Under DFPDS-2026 Schedule 32: Contingency Grants, Fleet Commander Discretionary Fund, and Protocol Expenses (DFPDS-2026/NAVY/SCH-32), a Chief of the Naval Staff (CNS) (Tier 1) may sanction up to \u20b9140.00 Crore with IFA concurrence.\nStatutory Note: Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-32",
+        "Schedule_32",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_32"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 0.95
+    },
+    {
+      "question_id": "Q04",
+      "archetype": "STRUCTURED",
+      "question": "What is the PAC limit for FOC-in-C (Tier 2) under Schedule 18?",
+      "expected_answer": "25.00 Crore, Schedule 18, Tier 2",
+      "actual_answer": "Under DFPDS-2026 Schedule 18: Special Infrastructure, Hardened Munitions Bunkers, and Security Fencing (DFPDS-2026/NAVY/SCH-18), a Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS (Tier 2) may sanction up to \u20b980.00 Crore with IFA concurrence.\nUnder PAC guidelines (DPM-2025 Ch 3), the ceiling is \u20b940.00 Crore (50% of delegation).\nStatutory Note: Applicable for Western, Eastern, and Southern Naval Commands.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-18",
+        "Schedule_18",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_18"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 0.67
+    },
+    {
+      "question_id": "Q05",
+      "archetype": "STRUCTURED",
+      "question": "Under Schedule 12, how much can Commodore (Tier 4) sanction without IFA?",
+      "expected_answer": "0.50 Crore, Schedule 12, Tier 4",
+      "actual_answer": "Under DFPDS-2026 Schedule 12: Hydrographic Survey Instrumentation, Cartography, and Oceanographic Systems (DFPDS-2026/NAVY/SCH-12), a Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC) (Tier 4) may sanction up to \u20b90.70 Crore without IFA concurrence.\nStatutory Note: Exercisable for operational units within designated maritime sector.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-12",
+        "Schedule_12",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_12"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 0.59
+    },
+    {
+      "question_id": "Q06",
+      "archetype": "STRUCTURED",
+      "question": "What is the financial power of CNS (Tier 1) under Schedule 2 with IFA?",
+      "expected_answer": "100.00 Crore, Schedule 02, Tier 1",
+      "actual_answer": "Under DFPDS-2026 Schedule 02: Naval Aviation Spares, Airframe Overhaul, and Avionics Systems (DFPDS-2026/NAVY/SCH-02), a Chief of the Naval Staff (CNS) (Tier 1) may sanction up to \u20b9140.00 Crore with IFA concurrence.\nStatutory Note: Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-02",
+        "Schedule_02",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_02"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 0.65
+    },
+    {
+      "question_id": "Q07",
+      "archetype": "STRUCTURED",
+      "question": "Under Schedule 24, what is the financial power for CO Major Base (Tier 6) with IFA?",
+      "expected_answer": "0.20 Crore, Schedule 24, Tier 6",
+      "actual_answer": "Under DFPDS-2026 Schedule 24: Naval Aviation Ground Support Equipment and Aircraft Refueling Units (DFPDS-2026/NAVY/SCH-24), a Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base (Tier 6) may sanction up to \u20b90.90 Crore with IFA concurrence.\nStatutory Note: Unit level local purchase and minor repairs under strict accounting ledger.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-24",
+        "Schedule_24",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_24"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 0.63
+    },
+    {
+      "question_id": "Q08",
+      "archetype": "STRUCTURED",
+      "question": "What is the limit for Fleet Commander (Tier 3) under Schedule 09 without IFA?",
+      "expected_answer": "2.00 Crore, Schedule 09, Tier 3",
+      "actual_answer": "Under DFPDS-2026 Schedule 09: Yard Equipment, Drydock Cranes, and Ship-Lift Facility Operations (DFPDS-2026/NAVY/SCH-09), a Fleet Commander / ASD (Naval Dockyard) / FOMA (Tier 3) may sanction up to \u20b92.70 Crore without IFA concurrence.\nStatutory Note: Requires Command IFA concurrence for amounts exceeding without-IFA threshold.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-09",
+        "Schedule_09",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_09"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 0.62
+    },
+    {
+      "question_id": "Q09",
+      "archetype": "STRUCTURED",
+      "question": "Under Schedule 15, what is the financial delegation for FOC-in-C (Tier 2) with IFA?",
+      "expected_answer": "50.00 Crore, Schedule 15, Tier 2",
+      "actual_answer": "Under DFPDS-2026 Schedule 15: Naval Medical Stores, Hospital Diagnostic Systems, and Hyperbaric Chambers (DFPDS-2026/NAVY/SCH-15), a Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS (Tier 2) may sanction up to \u20b950.00 Crore with IFA concurrence.\nStatutory Note: Applicable for Western, Eastern, and Southern Naval Commands.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-15",
+        "Schedule_15",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_15"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 0.61
+    },
+    {
+      "question_id": "Q10",
+      "archetype": "STRUCTURED",
+      "question": "What is the sanctioning power for Commodore (Tier 4) under Schedule 30 with IFA?",
+      "expected_answer": "5.00 Crore, Schedule 30, Tier 4",
+      "actual_answer": "Under DFPDS-2026 Schedule 30: Naval Base Fire Fighting Systems, Damage Control Simulators, and NBCD Gear (DFPDS-2026/NAVY/SCH-30), a Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC) (Tier 4) may sanction up to \u20b95.00 Crore with IFA concurrence.\nStatutory Note: Exercisable for operational units within designated maritime sector.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-30",
+        "Schedule_30",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_30"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 0.61
+    },
+    {
+      "question_id": "Q11",
+      "archetype": "INTERPRETIVE",
+      "question": "Can CO Frigate bypass GeM for emergency propulsion repair?",
+      "expected_answer": null,
+      "actual_answer": "CERTIFIED ABSTENTION: Context insufficient or ungrounded",
+      "is_structured_exact_match": null,
+      "nli_scores": [],
+      "contradiction_scores": [],
+      "valid_citations_count": 0,
+      "total_citations_count": 0,
+      "retrieved_chunk_ids": [
+        "DFPDS_2026_Schedule_16 DFPDS-2026/Schedule_16/SCHEDULE_16_CLOTHING_MARINE_CO DFPDS_2026_Schedule_16_chunk_0007",
+        "NAVY_REGS_Part_04  NAVY_REGS_Part_04_chunk_0002",
+        "Navy_Regs_Part_IV  Navy_Regs_Part_IV_chunk_0002"
+      ],
+      "ground_truth_chunk_ids": [
+        "DPM",
+        "Schedule_16",
+        "DFPDS"
+      ],
+      "is_abstained": true,
+      "expected_abstained": false,
+      "refusal_reason": "INSUFFICIENT_CORPUS_CONTEXT",
+      "latency_ms": 7595.19
+    },
+    {
+      "question_id": "Q12",
+      "archetype": "INTERPRETIVE",
+      "question": "What are the mandatory conditions for Single Tender Enquiry under DPM 2025?",
+      "expected_answer": "Single Tender, PAC, emergency, standardisation",
+      "actual_answer": "GOVERNMENT OF INDIA \u2022 MINISTRY OF DEFENCE\nDEFENCE PROCUREMENT MANUAL 2025 (DPM-2025)\nCHAPTER 03: SINGLE TENDER ENQUIRY AND PROPRIETARY PROCUREMENT (PAC)\nReference Identifier:  DPM-2025/DMA/CH-03\nCore Subject Domains:  Single Tender Enquiry (STE) \u2022 Proprietary Article Certificate (PAC) \u2022 Sole Source Justification \u2022 Price\nReasonableness\nMANDATORY PROCUREMENT DIRECTIVES & PROCEDURES:\n\u2022 1.",
+      "is_structured_exact_match": null,
+      "nli_scores": [
+        0.9241
+      ],
+      "contradiction_scores": [
+        0.0218
+      ],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DPM_2025_Chapter_03  DPM_2025_Chapter_03_chunk_0001",
+        "DPM_2025_Chapter_03 DPM-2025/Chapter_03/Tier_2025 DPM_2025_Chapter_03_chunk_0002",
+        "DPM_2025_Chapter_02  DPM_2025_Chapter_02_chunk_0001",
+        "DPM_2025_Chapter_02 DPM-2025/Chapter_02/Tier_2025 DPM_2025_Chapter_02_chunk_0002"
+      ],
+      "ground_truth_chunk_ids": [
+        "DPM"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 7387.03
+    },
+    {
+      "question_id": "Q13",
+      "archetype": "INTERPRETIVE",
+      "question": "How is Liquidated Damages calculated under DPM 2025 contracts for delayed delivery?",
+      "expected_answer": "0.5%, week, 10%, Liquidated Damages",
+      "actual_answer": "CERTIFIED ABSTENTION",
+      "is_structured_exact_match": null,
+      "nli_scores": [],
+      "contradiction_scores": [],
+      "valid_citations_count": 0,
+      "total_citations_count": 0,
+      "retrieved_chunk_ids": [
+        "DPM_2025_Chapter_04  DPM_2025_Chapter_04_chunk_0002",
+        "DPM_2025_Chapter_04  DPM_2025_Chapter_04_chunk_0001",
+        "DPM_2025_Chapter_06 DPM-2025/Chapter_06/Tier_2025 DPM_2025_Chapter_06_chunk_0002"
+      ],
+      "ground_truth_chunk_ids": [
+        "DPM"
+      ],
+      "is_abstained": true,
+      "expected_abstained": false,
+      "refusal_reason": "UNVERIFIED_STATUTORY_CLAIM",
+      "latency_ms": 4026.25
+    },
+    {
+      "question_id": "Q14",
+      "archetype": "INTERPRETIVE",
+      "question": "What percentage of Performance Bank Guarantee is required for naval procurement contracts?",
+      "expected_answer": "3%, 5%, Performance Bank Guarantee, PBG",
+      "actual_answer": "GOVERNMENT OF INDIA \u2022 MINISTRY OF DEFENCE\nDEFENCE PROCUREMENT MANUAL 2025 (DPM-2025)\nCHAPTER 04: CONTRACT GUARANTEES, LIQUIDATED DAMAGES & PENALTIES\nReference Identifier:  DPM-2025/DMA/CH-04\nCore Subject Domains:  Performance Bank Guarantee (PBG) \u2022 Liquidated Damages (LD) \u2022 Warranty Clauses \u2022 Arbitration\nMANDATORY PROCUREMENT DIRECTIVES & PROCEDURES:\n\u2022 1.",
+      "is_structured_exact_match": null,
+      "nli_scores": [
+        0.9494
+      ],
+      "contradiction_scores": [
+        0.0116
+      ],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DPM_2025_Chapter_04  DPM_2025_Chapter_04_chunk_0001",
+        "DPM_2025_Chapter_04  DPM_2025_Chapter_04_chunk_0002",
+        "DPM_2025_Chapter_06 DPM-2025/Chapter_06/Tier_2025 DPM_2025_Chapter_06_chunk_0002"
+      ],
+      "ground_truth_chunk_ids": [
+        "DPM"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 3877.36
+    },
+    {
+      "question_id": "Q15",
+      "archetype": "INTERPRETIVE",
+      "question": "What are the rules regarding repeat orders under DPM 2025?",
+      "expected_answer": null,
+      "actual_answer": "CERTIFIED ABSTENTION: Context insufficient or ungrounded",
+      "is_structured_exact_match": null,
+      "nli_scores": [],
+      "contradiction_scores": [],
+      "valid_citations_count": 0,
+      "total_citations_count": 0,
+      "retrieved_chunk_ids": [
+        "DPM_2025_Chapter_05  DPM_2025_Chapter_05_chunk_0001",
+        "DPM_2025_Chapter_06 DPM-2025/Chapter_06/General DPM_2025_Chapter_06_chunk_0001",
+        "DPM_2025_Chapter_02  DPM_2025_Chapter_02_chunk_0001",
+        "DPM_2025_Chapter_06 DPM-2025/Chapter_06/Tier_2025 DPM_2025_Chapter_06_chunk_0002"
+      ],
+      "ground_truth_chunk_ids": [
+        "DPM"
+      ],
+      "is_abstained": true,
+      "expected_abstained": false,
+      "refusal_reason": "INSUFFICIENT_CORPUS_CONTEXT",
+      "latency_ms": 2249.29
+    },
+    {
+      "question_id": "Q16",
+      "archetype": "ABSTENTION",
+      "question": "What is the capital budget for INS Vishal in FY 2027?",
+      "expected_answer": "Abstain",
+      "actual_answer": "CERTIFIED ABSTENTION: Context insufficient or ungrounded",
+      "is_structured_exact_match": null,
+      "nli_scores": [],
+      "contradiction_scores": [],
+      "valid_citations_count": 0,
+      "total_citations_count": 0,
+      "retrieved_chunk_ids": [
+        "DFPDS_2026_Schedule_27  DFPDS_2026_Schedule_27_chunk_0002",
+        "DPM_2025_Chapter_02 DPM-2025/Chapter_02/Tier_2025 DPM_2025_Chapter_02_chunk_0002",
+        "DFPDS_2026_Schedule_28  DFPDS_2026_Schedule_28_chunk_0002",
+        "DFPDS_2026_Schedule_01 DFPDS-2026/Schedule_01/SCHEDULE_01_PROCUREMENT_OF_CAP DFPDS_2026_Schedule_01_chunk_0003",
+        "DFPDS_2026_Schedule_02 DFPDS-2026/Schedule_02/SCHEDULE_02_NAVAL_AVIATION_SPA DFPDS_2026_Schedule_02_chunk_0003"
+      ],
+      "ground_truth_chunk_ids": [],
+      "is_abstained": true,
+      "expected_abstained": true,
+      "refusal_reason": "INSUFFICIENT_CORPUS_CONTEXT",
+      "latency_ms": 1958.02
+    },
+    {
+      "question_id": "Q17",
+      "archetype": "ABSTENTION",
+      "question": "What is the sanctioning limit for Fleet Commander under Schedule 99?",
+      "expected_answer": "Abstain",
+      "actual_answer": "CERTIFIED ABSTENTION: Schedule outside DFPDS-2026 range",
+      "is_structured_exact_match": null,
+      "nli_scores": [],
+      "contradiction_scores": [],
+      "valid_citations_count": 0,
+      "total_citations_count": 0,
+      "retrieved_chunk_ids": [],
+      "ground_truth_chunk_ids": [],
+      "is_abstained": true,
+      "expected_abstained": true,
+      "refusal_reason": "OUT_OF_DOMAIN_QUERY",
+      "latency_ms": 0.08
+    },
+    {
+      "question_id": "Q18",
+      "archetype": "ABSTENTION",
+      "question": "What are the procurement procedures for French Navy Rafale-M carrier landing gear?",
+      "expected_answer": "Abstain",
+      "actual_answer": "CERTIFIED ABSTENTION: Context insufficient or ungrounded",
+      "is_structured_exact_match": null,
+      "nli_scores": [],
+      "contradiction_scores": [],
+      "valid_citations_count": 0,
+      "total_citations_count": 0,
+      "retrieved_chunk_ids": [
+        "DPM_2025_Chapter_04  DPM_2025_Chapter_04_chunk_0002",
+        "NAVY_REGS_Part_04 Navy_Regulations/Part_IV/General NAVY_REGS_Part_04_chunk_0001",
+        "Navy_Regs_Part_IV Navy_Regulations/Part_IV/General Navy_Regs_Part_IV_chunk_0001",
+        "NAVY_REGS_Part_04  NAVY_REGS_Part_04_chunk_0002",
+        "Navy_Regs_Part_IV  Navy_Regs_Part_IV_chunk_0002"
+      ],
+      "ground_truth_chunk_ids": [],
+      "is_abstained": true,
+      "expected_abstained": true,
+      "refusal_reason": "INSUFFICIENT_CORPUS_CONTEXT",
+      "latency_ms": 2840.92
+    },
+    {
+      "question_id": "Q19",
+      "archetype": "ABSTENTION",
+      "question": "Who is the Competent Financial Authority for nuclear submarine reactor core procurement?",
+      "expected_answer": "Abstain",
+      "actual_answer": "CERTIFIED ABSTENTION: Context insufficient or ungrounded",
+      "is_structured_exact_match": null,
+      "nli_scores": [],
+      "contradiction_scores": [],
+      "valid_citations_count": 0,
+      "total_citations_count": 0,
+      "retrieved_chunk_ids": [
+        "DFPDS_2026_Schedule_08 DFPDS-2026/Schedule_08/SCHEDULE_08_SUBMARINE_MAINTENA DFPDS_2026_Schedule_08_chunk_0005",
+        "DFPDS_2026_Schedule_27  DFPDS_2026_Schedule_27_chunk_0002",
+        "DFPDS_2026_Schedule_04  DFPDS_2026_Schedule_04_chunk_0005"
+      ],
+      "ground_truth_chunk_ids": [],
+      "is_abstained": true,
+      "expected_abstained": true,
+      "refusal_reason": "INSUFFICIENT_CORPUS_CONTEXT",
+      "latency_ms": 1840.71
+    },
+    {
+      "question_id": "Q20",
+      "archetype": "ABSTENTION",
+      "question": "Can an officer sanction expenditure in cryptocurrency under DFPDS-2026?",
+      "expected_answer": "Abstain",
+      "actual_answer": "CERTIFIED ABSTENTION: Context insufficient or ungrounded",
+      "is_structured_exact_match": null,
+      "nli_scores": [],
+      "contradiction_scores": [],
+      "valid_citations_count": 0,
+      "total_citations_count": 0,
+      "retrieved_chunk_ids": [
+        "DFPDS_2026_Schedule_14 DFPDS-2026/Schedule_14/SCHEDULE_14_OFFICER_SAILOR_VIC DFPDS_2026_Schedule_14_chunk_0006",
+        "DFPDS_2026_Schedule_26  DFPDS_2026_Schedule_26_chunk_0002",
+        "DFPDS_2026_Schedule_20  DFPDS_2026_Schedule_20_chunk_0002"
+      ],
+      "ground_truth_chunk_ids": [],
+      "is_abstained": true,
+      "expected_abstained": true,
+      "refusal_reason": "INSUFFICIENT_CORPUS_CONTEXT",
+      "latency_ms": 1734.02
+    },
+    {
+      "question_id": "Q21",
+      "archetype": "MULTI_HOP",
+      "question": "If a Fleet Commander sanctions \u20b910 Crore under Schedule 7 for tactical drones, what tendering mode and PBG percentage are required under DPM 2025?",
+      "expected_answer": "Fleet Commander, Schedule 07, PBG, 3%",
+      "actual_answer": "Under DFPDS-2026 Schedule 07: Ship Repairs, Refits, Dry-Docking, and Hull Preservation (DFPDS-2026/NAVY/SCH-07), a Fleet Commander / ASD (Naval Dockyard) / FOMA (Tier 3) may sanction up to \u20b921.00 Crore with IFA concurrence.\nStatutory Note: Requires Command IFA concurrence for amounts exceeding without-IFA threshold.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-07",
+        "Schedule_07",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_07"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 3.25
+    },
+    {
+      "question_id": "Q22",
+      "archetype": "MULTI_HOP",
+      "question": "Can FOC-in-C approve single tender procurement under Schedule 18 if PAC certificate is unavailable?",
+      "expected_answer": "PAC, Single Tender, Schedule 18",
+      "actual_answer": "Under DFPDS-2026 Schedule 18: Special Infrastructure, Hardened Munitions Bunkers, and Security Fencing (DFPDS-2026/NAVY/SCH-18), a Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS (Tier 2) may sanction up to \u20b980.00 Crore with IFA concurrence.\nUnder PAC guidelines (DPM-2025 Ch 3), the ceiling is \u20b940.00 Crore (50% of delegation).\nStatutory Note: Applicable for Western, Eastern, and Southern Naval Commands.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-18",
+        "Schedule_18",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_18"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 2.3
+    },
+    {
+      "question_id": "Q23",
+      "archetype": "MULTI_HOP",
+      "question": "What is the financial threshold for a Commodore under Schedule 12 and what approval is needed if delivery is delayed beyond 10 weeks?",
+      "expected_answer": "Commodore, Schedule 12, Liquidated Damages",
+      "actual_answer": "Under DFPDS-2026 Schedule 12: Hydrographic Survey Instrumentation, Cartography, and Oceanographic Systems (DFPDS-2026/NAVY/SCH-12), a Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC) (Tier 4) may sanction up to \u20b97.00 Crore with IFA concurrence.\nStatutory Note: Exercisable for operational units within designated maritime sector.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-12",
+        "Schedule_12",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_12"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 3.51
+    },
+    {
+      "question_id": "Q24",
+      "archetype": "COMPARATIVE",
+      "question": "Compare the financial powers of FOC-in-C (Tier 2) and Fleet Commander (Tier 3) under Schedule 07.",
+      "expected_answer": "50.00 Crore, 18.00 Crore, Schedule 07",
+      "actual_answer": "Under DFPDS-2026 Schedule 07: Ship Repairs, Refits, Dry-Docking, and Hull Preservation (DFPDS-2026/NAVY/SCH-07), a Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS (Tier 2) may sanction up to \u20b970.00 Crore with IFA concurrence.\nStatutory Note: Applicable for Western, Eastern, and Southern Naval Commands.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-07",
+        "Schedule_07",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_07"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 3.59
+    },
+    {
+      "question_id": "Q25",
+      "archetype": "COMPARATIVE",
+      "question": "How does the financial delegation without IFA compare between CNS (Tier 1) and Commodore (Tier 4) across Schedule 01?",
+      "expected_answer": "10.00 Crore, 0.50 Crore, Schedule 01",
+      "actual_answer": "Under DFPDS-2026 Schedule 01: Procurement of Capital Spares, Assemblies, and Armament Stores (DFPDS-2026/NAVY/SCH-01), a Chief of the Naval Staff (CNS) (Tier 1) may sanction up to \u20b912.00 Crore without IFA concurrence.\nStatutory Note: Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-01",
+        "Schedule_01",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_01"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 3.66
+    },
+    {
+      "question_id": "Q26",
+      "archetype": "COMPARATIVE",
+      "question": "Compare the PAC limits between Schedule 18 and Schedule 24 for Tier 2 authorities.",
+      "expected_answer": "Schedule 18, Schedule 24, Tier 2",
+      "actual_answer": "Under DFPDS-2026 Schedule 18: Special Infrastructure, Hardened Munitions Bunkers, and Security Fencing (DFPDS-2026/NAVY/SCH-18), a Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS (Tier 2) may sanction up to \u20b980.00 Crore with IFA concurrence.\nUnder PAC guidelines (DPM-2025 Ch 3), the ceiling is \u20b940.00 Crore (50% of delegation).\nStatutory Note: Applicable for Western, Eastern, and Southern Naval Commands.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-18",
+        "Schedule_18",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_18"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 3.22
+    },
+    {
+      "question_id": "Q27",
+      "archetype": "BOUNDARY_EDGE",
+      "question": "What is the maximum possible financial sanction under DFPDS-2026 Schedule 01 across all tiers?",
+      "expected_answer": "100.00 Crore, CNS, Tier 1",
+      "actual_answer": "Statutory Reference Code:  DFPDS-2026/NAVY/SCH-01\nTier\nCompetent Financial\nAuthority (CFA)\nWith IFA\nConcurrence ( I\nCr)\nWithout IFA\nConcurrence ( I\nCr)\nPAC Limit ( I\nCr)\nStatutory Delegation Notes\nTier 1\nChief of the Naval Staff (CNS)\nI  120.00 Cr\nI  12.00 Cr\nI  60.00 Cr\nFull financial powers with MoD (Finance) / IFA\nconcurrence as per Annexure A.",
+      "is_structured_exact_match": null,
+      "nli_scores": [
+        0.9654
+      ],
+      "contradiction_scores": [
+        0.0059
+      ],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS_2026_Schedule_01 DFPDS-2026/Schedule_01/SCHEDULE_01_PROCUREMENT_OF_CAP DFPDS_2026_Schedule_01_chunk_0002",
+        "DFPDS_2026_Schedule_26  DFPDS_2026_Schedule_26_chunk_0002",
+        "DFPDS_2026_Schedule_19  DFPDS_2026_Schedule_19_chunk_0002"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_01"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 9462.48
+    },
+    {
+      "question_id": "Q28",
+      "archetype": "BOUNDARY_EDGE",
+      "question": "Can a Tier 5 officer sanction an amount equal to \u20b91.00 Crore under Schedule 1 with IFA?",
+      "expected_answer": "0.50 Crore, Tier 5, Schedule 01",
+      "actual_answer": "Under DFPDS-2026 Schedule 01: Procurement of Capital Spares, Assemblies, and Armament Stores (DFPDS-2026/NAVY/SCH-01), a Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate) (Tier 5) may sanction up to \u20b92.40 Crore with IFA concurrence.\nStatutory Note: Direct sanction for urgent operational mission replenishment at sea or foreign ports.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-01",
+        "Schedule_01",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_01"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 2.89
+    },
+    {
+      "question_id": "Q29",
+      "archetype": "BOUNDARY_EDGE",
+      "question": "What happens when a procurement value exceeds the maximum limit under Schedule 32?",
+      "expected_answer": null,
+      "actual_answer": "CERTIFIED ABSTENTION: Context insufficient or ungrounded",
+      "is_structured_exact_match": null,
+      "nli_scores": [],
+      "contradiction_scores": [],
+      "valid_citations_count": 0,
+      "total_citations_count": 0,
+      "retrieved_chunk_ids": [
+        "DFPDS_2026_Schedule_32 DFPDS-2026/Schedule_32/SCHEDULE_32_CONTINGENCY_GRANTS DFPDS_2026_Schedule_32_chunk_0002",
+        "DPM_2025_Chapter_02 DPM-2025/Chapter_02/Tier_2025 DPM_2025_Chapter_02_chunk_0002",
+        "DFPDS_2026_Schedule_01  DFPDS_2026_Schedule_01_chunk_0006",
+        "DFPDS_2026_Schedule_02  DFPDS_2026_Schedule_02_chunk_0006",
+        "DFPDS_2026_Schedule_03  DFPDS_2026_Schedule_03_chunk_0006",
+        "DFPDS_2026_Schedule_04  DFPDS_2026_Schedule_04_chunk_0006",
+        "DFPDS_2026_Schedule_05  DFPDS_2026_Schedule_05_chunk_0006",
+        "DFPDS_2026_Schedule_06  DFPDS_2026_Schedule_06_chunk_0006",
+        "DFPDS_2026_Schedule_07  DFPDS_2026_Schedule_07_chunk_0006",
+        "DFPDS_2026_Schedule_08  DFPDS_2026_Schedule_08_chunk_0006"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_32"
+      ],
+      "is_abstained": true,
+      "expected_abstained": false,
+      "refusal_reason": "INSUFFICIENT_CORPUS_CONTEXT",
+      "latency_ms": 4645.65
+    },
+    {
+      "question_id": "Q30",
+      "archetype": "NEGATIVE_CONSTRAINT",
+      "question": "Can a Fleet Commander sanction expenditure above \u20b95 Crore under Schedule 07 without IFA concurrence?",
+      "expected_answer": "without IFA, 2.00 Crore, prior IFA concurrence",
+      "actual_answer": "Under DFPDS-2026 Schedule 07: Ship Repairs, Refits, Dry-Docking, and Hull Preservation (DFPDS-2026/NAVY/SCH-07), a Fleet Commander / ASD (Naval Dockyard) / FOMA (Tier 3) may sanction up to \u20b92.10 Crore without IFA concurrence.\nStatutory Note: Requires Command IFA concurrence for amounts exceeding without-IFA threshold.",
+      "is_structured_exact_match": true,
+      "nli_scores": [
+        0.98
+      ],
+      "contradiction_scores": [],
+      "valid_citations_count": 1,
+      "total_citations_count": 1,
+      "retrieved_chunk_ids": [
+        "DFPDS-2026/NAVY/SCH-07",
+        "Schedule_07",
+        "DFPDS-2026"
+      ],
+      "ground_truth_chunk_ids": [
+        "Schedule_07"
+      ],
+      "is_abstained": false,
+      "expected_abstained": false,
+      "refusal_reason": null,
+      "latency_ms": 3.09
+    },
+    {
+      "question_id": "Q31",
+      "archetype": "NEGATIVE_CONSTRAINT",
+      "question": "Is an advance payment exceeding 15% permitted to private suppliers without bank guarantee under DPM 2025?",
+      "expected_answer": null,
+      "actual_answer": "CERTIFIED ABSTENTION: Context insufficient or ungrounded",
+      "is_structured_exact_match": null,
+      "nli_scores": [],
+      "contradiction_scores": [],
+      "valid_citations_count": 0,
+      "total_citations_count": 0,
+      "retrieved_chunk_ids": [
+        "DPM_2025_Chapter_04  DPM_2025_Chapter_04_chunk_0001",
+        "DPM_2025_Chapter_06  DPM_2025_Chapter_06_chunk_0001",
+        "DPM_2025_Chapter_03 DPM-2025/Chapter_03/General DPM_2025_Chapter_03_chunk_0001"
+      ],
+      "ground_truth_chunk_ids": [
+        "DPM"
+      ],
+      "is_abstained": true,
+      "expected_abstained": false,
+      "refusal_reason": "INSUFFICIENT_CORPUS_CONTEXT",
+      "latency_ms": 2285.12
+    }
+  ]
+}

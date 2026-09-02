@@ -1,0 +1,98 @@
+[
+  {
+    "chapter_no": 1,
+    "chapter_title": "Chapter 01: General Principles of Defence Procurement",
+    "reference": "DPM-2025/DMA/CH-01",
+    "topics": [
+      "Public Procurement Principles",
+      "Transparency & Accountability",
+      "Indent Origination",
+      "Vendor Registration"
+    ],
+    "clauses": [
+      "1. Fundamental Principles: All procurement in the Defence Services shall adhere to the canonical canons of financial propriety: transparency, equal opportunity, competitiveness, and cost-effectiveness.",
+      "2. Annual Procurement Plan: Every naval command shall formulate an Annual Acquisition Plan (AAP) reconciled with allocated budget estimates before initiating commercial tendering.",
+      "3. Vendor Due Diligence: Only entities registered with the Indian Navy or Defence Public Sector Undertakings (DPSUs) with verified PAN/GST credentials shall be issued competitive tenders."
+    ]
+  },
+  {
+    "chapter_no": 2,
+    "chapter_title": "Chapter 02: Modes of Tendering and Competitive Bidding",
+    "reference": "DPM-2025/DMA/CH-02",
+    "topics": [
+      "Open Tender Enquiry (OTE)",
+      "Limited Tender Enquiry (LTE)",
+      "Global Tender Enquiry (GTE)",
+      "GeM Procurement"
+    ],
+    "clauses": [
+      "1. Open Tender Enquiry (OTE): OTE is the mandatory default mode for all goods and services valued above INR 25 Lakhs. Tenders must be published on the Central Public Procurement Portal (CPPP) and Government e-Marketplace (GeM).",
+      "2. Limited Tender Enquiry (LTE): LTE may be adopted for values up to INR 25 Lakhs where the number of registered suppliers exceeds three.",
+      "3. Global Tender Enquiry (GTE): GTE is barred for procurements valued under INR 200 Crore under Make in India mandate, unless special exemption is granted by the Cabinet Secretary."
+    ]
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Chapter 03: Single Tender Enquiry and Proprietary Procurement (PAC)",
+    "reference": "DPM-2025/DMA/CH-03",
+    "topics": [
+      "Single Tender Enquiry (STE)",
+      "Proprietary Article Certificate (PAC)",
+      "Sole Source Justification",
+      "Price Reasonableness"
+    ],
+    "clauses": [
+      "1. Proprietary Article Certificate (PAC): PAC procurement is permitted only when the technical Directorate certifies that no other manufacturer produces an equivalent system or compatible sub-assembly.",
+      "2. Single Tender Enquiry (STE) on Urgent Grounds: STE without PAC requires recorded justification by the CFA (Vice Admiral level or above) on critical operational urgency or national security grounds.",
+      "3. Benchmarking & Price Reasonableness: On all STE/PAC cases, the Contract Negotiation Committee (CNC) must establish a Cost Audit benchmark based on previous supply orders or manufacturing cost breakdown."
+    ]
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Chapter 04: Contract Guarantees, Liquidated Damages & Penalties",
+    "reference": "DPM-2025/DMA/CH-04",
+    "topics": [
+      "Performance Bank Guarantee (PBG)",
+      "Liquidated Damages (LD)",
+      "Warranty Clauses",
+      "Arbitration"
+    ],
+    "clauses": [
+      "1. Performance Bank Guarantee (PBG): Successful bidders shall furnish a PBG of 3% to 5% of the total contract value from a scheduled commercial bank, valid for 60 days beyond all contractual warranty obligations.",
+      "2. Liquidated Damages (LD): For delayed delivery, LD shall be levied at 0.5% per week or part thereof, subject to a maximum ceiling of 10% of the contract value.",
+      "3. Warranty Support: All defence stores shall carry a minimum 24-month comprehensive OEM warranty from the date of final naval acceptance at the Naval Dockyard."
+    ]
+  },
+  {
+    "chapter_no": 5,
+    "chapter_title": "Chapter 05: Quality Assurance, Inspection and Material Acceptance",
+    "reference": "DPM-2025/DMA/CH-05",
+    "topics": [
+      "Directorate General of Quality Assurance (DGQA)",
+      "Naval Armament Inspection (DNAI)",
+      "Factory Acceptance Tests (FAT)",
+      "Joint Receipt Inspection (JRI)"
+    ],
+    "clauses": [
+      "1. Inspection Agency: Stores shall be inspected by DGQA, DNAI, or Warship Overseeing Team (WOT) as specified in the purchase order before dispatch.",
+      "2. Joint Receipt Inspection (JRI): Upon physical delivery at the Naval Store Depot, a JRI board consisting of user officers and material superintendents shall verify quantity, test certificates, and physical integrity.",
+      "3. Rejection & Replacement: Rejected stores must be removed by the supplier within 21 days at their own expense, failing which ground rent shall be levied."
+    ]
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Chapter 06: Emergency Procurement & Fast-Track Procedures",
+    "reference": "DPM-2025/DMA/CH-06",
+    "topics": [
+      "Emergency Procurement Powers (EPP)",
+      "Fast-Track Procedures (FTP)",
+      "War Wastage Reserve (WWR)",
+      "Short-Notice Deliveries"
+    ],
+    "clauses": [
+      "1. Emergency Procurement Powers (EPP): During heightened operational readiness or border contingencies, Armed Forces Vice Chiefs are empowered under EPP with financial limits up to INR 300 Crore per project.",
+      "2. Delivery Timelines: Stores contracted under EPP must be delivered within 3 to 12 months from contract signing.",
+      "3. Post-Facto Regularization: All emergency fast-track procurements must be reported to the Defence Procurement Board within 60 days of contract execution."
+    ]
+  }
+]

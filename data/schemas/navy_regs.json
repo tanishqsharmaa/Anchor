@@ -1,0 +1,90 @@
+[
+  {
+    "part_no": 1,
+    "part_title": "Navy Regulations Part I: Naval Governance, Command Hierarchy & Appointments",
+    "reference": "NAVREGS/PART-01/STATUTORY",
+    "articles": [
+      {
+        "article_no": "Article 0101",
+        "title": "Supreme Command & Admiralty Jurisdiction",
+        "text": "The executive command of the Indian Navy is vested in the Chief of the Naval Staff subject to the overall direction of the President of India and Ministry of Defence."
+      },
+      {
+        "article_no": "Article 0102",
+        "title": "Command Powers of Flag Officers",
+        "text": "Flag Officers Commanding-in-Chief of Naval Commands exercise full administrative and operational control over all naval forces, bases, and establishments within their maritime theatre."
+      },
+      {
+        "article_no": "Article 0103",
+        "title": "Commanding Officer's Prerogatives",
+        "text": "The Commanding Officer of a Commissioned Warship represents the sovereign authority of the Republic of India on the high seas and maintains absolute command over all personnel embarked."
+      }
+    ]
+  },
+  {
+    "part_no": 2,
+    "part_title": "Navy Regulations Part II: Discipline, Court Martial & Naval Law",
+    "reference": "NAVREGS/PART-02/DISCIPLINE",
+    "articles": [
+      {
+        "article_no": "Article 0201",
+        "title": "Maintenance of Good Order & Naval Discipline",
+        "text": "All officers and sailors shall strictly uphold the standards of martial discipline and obedience to lawful commands under the Navy Act 1957."
+      },
+      {
+        "article_no": "Article 0202",
+        "title": "Summary Disposal Powers",
+        "text": "Commanding Officers possess statutory powers to summarily investigate and punish minor service offenses within prescribed tables of punishment."
+      },
+      {
+        "article_no": "Article 0203",
+        "title": "Courts Martial Procedure",
+        "text": "Trial by Court Martial shall be convened by a competent convening authority for grave military offenses, ensuring due process and fair legal representation."
+      }
+    ]
+  },
+  {
+    "part_no": 3,
+    "part_title": "Navy Regulations Part III: Ship Navigation, Safety & Seamanship Standards",
+    "reference": "NAVREGS/PART-03/SEAMANSHIP",
+    "articles": [
+      {
+        "article_no": "Article 0301",
+        "title": "Safety of Ship & Navigation Protocol",
+        "text": "The Commanding Officer and Officer of the Watch (OOW) are jointly responsible for the safe navigation of the vessel in accordance with International Regulations for Preventing Collisions at Sea (COLREGs)."
+      },
+      {
+        "article_no": "Article 0302",
+        "title": "Damage Control & Fire Readiness",
+        "text": "Every naval vessel shall maintain continuous State-1 or State-2 damage control readiness, with weekly drills for firefighting, toxic gas containment, and flood control."
+      },
+      {
+        "article_no": "Article 0303",
+        "title": "Log Books and Official Records",
+        "text": "The Ship's Log Book is an inviolable statutory record and all navigational, meteorological, and operational entries must be recorded contemporaneously without erasure."
+      }
+    ]
+  },
+  {
+    "part_no": 4,
+    "part_title": "Navy Regulations Part IV: Material Administration, Store Accounting & Dockyard Procedures",
+    "reference": "NAVREGS/PART-04/LOGISTICS",
+    "articles": [
+      {
+        "article_no": "Article 0401",
+        "title": "Custody & Accounting of Public Property",
+        "text": "Naval Supply Officers and Heads of Departments are personally accountable for the preservation, accounting, and annual stock audit of government stores in their charge."
+      },
+      {
+        "article_no": "Article 0402",
+        "title": "Dockyard Refit Protocols",
+        "text": "Warships entering Naval Dockyards for Scheduled or Emergency Refits shall adhere to standard work-package handover protocols, safety isolation, and quality sign-offs."
+      },
+      {
+        "article_no": "Article 0403",
+        "title": "Survey Boards and Condemnation of Stores",
+        "text": "Unserviceable or life-expired material shall be formally inspected by a designated Survey Board before sanction for write-off or disposal by the CFA."
+      }
+    ]
+  }
+]

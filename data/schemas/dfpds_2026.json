@@ -1,0 +1,2018 @@
+[
+  {
+    "schedule_no": 1,
+    "schedule_name": "Schedule 01: Procurement of Capital Spares, Assemblies, and Armament Stores",
+    "reference": "DFPDS-2026/NAVY/SCH-01",
+    "gazette_notification": "S.O. 2026/NAVY/001(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 120.0,
+        "without_ifa": 12.0,
+        "pac_limit": 60.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 60.0,
+        "without_ifa": 6.0,
+        "pac_limit": 30.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 18.0,
+        "without_ifa": 1.8,
+        "pac_limit": 9.0,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 6.0,
+        "without_ifa": 0.6,
+        "pac_limit": 3.0,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.4,
+        "without_ifa": 0.48,
+        "pac_limit": 1.2,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.6,
+        "without_ifa": 0.15,
+        "pac_limit": 0.3,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 01 (Procurement of Capital Spares, Assemblies, and Armament Stores) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 2,
+    "schedule_name": "Schedule 02: Naval Aviation Spares, Airframe Overhaul, and Avionics Systems",
+    "reference": "DFPDS-2026/NAVY/SCH-02",
+    "gazette_notification": "S.O. 2026/NAVY/002(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 140.0,
+        "without_ifa": 14.0,
+        "pac_limit": 70.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 70.0,
+        "without_ifa": 7.0,
+        "pac_limit": 35.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 21.0,
+        "without_ifa": 2.1,
+        "pac_limit": 10.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 7.0,
+        "without_ifa": 0.7,
+        "pac_limit": 3.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.8,
+        "without_ifa": 0.56,
+        "pac_limit": 1.4,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.7,
+        "without_ifa": 0.17,
+        "pac_limit": 0.35,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 02 (Naval Aviation Spares, Airframe Overhaul, and Avionics Systems) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 3,
+    "schedule_name": "Schedule 03: Special Operations Stores, Combat Diving Gear, and Marine Commando Equipment",
+    "reference": "DFPDS-2026/NAVY/SCH-03",
+    "gazette_notification": "S.O. 2026/NAVY/003(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 160.0,
+        "without_ifa": 16.0,
+        "pac_limit": 80.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 80.0,
+        "without_ifa": 8.0,
+        "pac_limit": 40.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 24.0,
+        "without_ifa": 2.4,
+        "pac_limit": 12.0,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 8.0,
+        "without_ifa": 0.8,
+        "pac_limit": 4.0,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 3.2,
+        "without_ifa": 0.64,
+        "pac_limit": 1.6,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.8,
+        "without_ifa": 0.2,
+        "pac_limit": 0.4,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 03 (Special Operations Stores, Combat Diving Gear, and Marine Commando Equipment) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 4,
+    "schedule_name": "Schedule 04: Naval Communication Systems, SATCOM Terminals, and Cryptographic Equipment",
+    "reference": "DFPDS-2026/NAVY/SCH-04",
+    "gazette_notification": "S.O. 2026/NAVY/004(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 180.0,
+        "without_ifa": 18.0,
+        "pac_limit": 90.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 90.0,
+        "without_ifa": 9.0,
+        "pac_limit": 45.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 27.0,
+        "without_ifa": 2.7,
+        "pac_limit": 13.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 9.0,
+        "without_ifa": 0.9,
+        "pac_limit": 4.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 3.6,
+        "without_ifa": 0.72,
+        "pac_limit": 1.8,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.9,
+        "without_ifa": 0.23,
+        "pac_limit": 0.45,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 04 (Naval Communication Systems, SATCOM Terminals, and Cryptographic Equipment) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 5,
+    "schedule_name": "Schedule 05: IT Hardware, Tactical C4ISR Software, and Cybersecurity Infrastructure",
+    "reference": "DFPDS-2026/NAVY/SCH-05",
+    "gazette_notification": "S.O. 2026/NAVY/005(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 100.0,
+        "without_ifa": 10.0,
+        "pac_limit": 50.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 50.0,
+        "without_ifa": 5.0,
+        "pac_limit": 25.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 15.0,
+        "without_ifa": 1.5,
+        "pac_limit": 7.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 5.0,
+        "without_ifa": 0.5,
+        "pac_limit": 2.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.0,
+        "without_ifa": 0.4,
+        "pac_limit": 1.0,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.5,
+        "without_ifa": 0.12,
+        "pac_limit": 0.25,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 05 (IT Hardware, Tactical C4ISR Software, and Cybersecurity Infrastructure) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 6,
+    "schedule_name": "Schedule 06: Naval Research, R&D Projects, and Indigenisation Prototyping",
+    "reference": "DFPDS-2026/NAVY/SCH-06",
+    "gazette_notification": "S.O. 2026/NAVY/006(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 120.0,
+        "without_ifa": 12.0,
+        "pac_limit": 60.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 60.0,
+        "without_ifa": 6.0,
+        "pac_limit": 30.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 18.0,
+        "without_ifa": 1.8,
+        "pac_limit": 9.0,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 6.0,
+        "without_ifa": 0.6,
+        "pac_limit": 3.0,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.4,
+        "without_ifa": 0.48,
+        "pac_limit": 1.2,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.6,
+        "without_ifa": 0.15,
+        "pac_limit": 0.3,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 06 (Naval Research, R&D Projects, and Indigenisation Prototyping) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 7,
+    "schedule_name": "Schedule 07: Ship Repairs, Refits, Dry-Docking, and Hull Preservation",
+    "reference": "DFPDS-2026/NAVY/SCH-07",
+    "gazette_notification": "S.O. 2026/NAVY/007(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 140.0,
+        "without_ifa": 14.0,
+        "pac_limit": 70.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 70.0,
+        "without_ifa": 7.0,
+        "pac_limit": 35.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 21.0,
+        "without_ifa": 2.1,
+        "pac_limit": 10.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 7.0,
+        "without_ifa": 0.7,
+        "pac_limit": 3.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.8,
+        "without_ifa": 0.56,
+        "pac_limit": 1.4,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.7,
+        "without_ifa": 0.17,
+        "pac_limit": 0.35,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 07 (Ship Repairs, Refits, Dry-Docking, and Hull Preservation) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 8,
+    "schedule_name": "Schedule 08: Submarine Maintenance, Battery Replenishment, and Life Certification",
+    "reference": "DFPDS-2026/NAVY/SCH-08",
+    "gazette_notification": "S.O. 2026/NAVY/008(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 160.0,
+        "without_ifa": 16.0,
+        "pac_limit": 80.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 80.0,
+        "without_ifa": 8.0,
+        "pac_limit": 40.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 24.0,
+        "without_ifa": 2.4,
+        "pac_limit": 12.0,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 8.0,
+        "without_ifa": 0.8,
+        "pac_limit": 4.0,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 3.2,
+        "without_ifa": 0.64,
+        "pac_limit": 1.6,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.8,
+        "without_ifa": 0.2,
+        "pac_limit": 0.4,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 08 (Submarine Maintenance, Battery Replenishment, and Life Certification) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 9,
+    "schedule_name": "Schedule 09: Yard Equipment, Drydock Cranes, and Ship-Lift Facility Operations",
+    "reference": "DFPDS-2026/NAVY/SCH-09",
+    "gazette_notification": "S.O. 2026/NAVY/009(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 180.0,
+        "without_ifa": 18.0,
+        "pac_limit": 90.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 90.0,
+        "without_ifa": 9.0,
+        "pac_limit": 45.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 27.0,
+        "without_ifa": 2.7,
+        "pac_limit": 13.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 9.0,
+        "without_ifa": 0.9,
+        "pac_limit": 4.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 3.6,
+        "without_ifa": 0.72,
+        "pac_limit": 1.8,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.9,
+        "without_ifa": 0.23,
+        "pac_limit": 0.45,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 09 (Yard Equipment, Drydock Cranes, and Ship-Lift Facility Operations) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 10,
+    "schedule_name": "Schedule 10: Naval Armament Depot Operations, Explosive Handling, and Munitions Testing",
+    "reference": "DFPDS-2026/NAVY/SCH-10",
+    "gazette_notification": "S.O. 2026/NAVY/010(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 100.0,
+        "without_ifa": 10.0,
+        "pac_limit": 50.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 50.0,
+        "without_ifa": 5.0,
+        "pac_limit": 25.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 15.0,
+        "without_ifa": 1.5,
+        "pac_limit": 7.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 5.0,
+        "without_ifa": 0.5,
+        "pac_limit": 2.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.0,
+        "without_ifa": 0.4,
+        "pac_limit": 1.0,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.5,
+        "without_ifa": 0.12,
+        "pac_limit": 0.25,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 10 (Naval Armament Depot Operations, Explosive Handling, and Munitions Testing) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 11,
+    "schedule_name": "Schedule 11: Missile Maintenance, Torpedo Overhaul, and Fire Control Calibration",
+    "reference": "DFPDS-2026/NAVY/SCH-11",
+    "gazette_notification": "S.O. 2026/NAVY/011(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 120.0,
+        "without_ifa": 12.0,
+        "pac_limit": 60.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 60.0,
+        "without_ifa": 6.0,
+        "pac_limit": 30.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 18.0,
+        "without_ifa": 1.8,
+        "pac_limit": 9.0,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 6.0,
+        "without_ifa": 0.6,
+        "pac_limit": 3.0,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.4,
+        "without_ifa": 0.48,
+        "pac_limit": 1.2,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.6,
+        "without_ifa": 0.15,
+        "pac_limit": 0.3,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 11 (Missile Maintenance, Torpedo Overhaul, and Fire Control Calibration) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 12,
+    "schedule_name": "Schedule 12: Hydrographic Survey Instrumentation, Cartography, and Oceanographic Systems",
+    "reference": "DFPDS-2026/NAVY/SCH-12",
+    "gazette_notification": "S.O. 2026/NAVY/012(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 140.0,
+        "without_ifa": 14.0,
+        "pac_limit": 70.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 70.0,
+        "without_ifa": 7.0,
+        "pac_limit": 35.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 21.0,
+        "without_ifa": 2.1,
+        "pac_limit": 10.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 7.0,
+        "without_ifa": 0.7,
+        "pac_limit": 3.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.8,
+        "without_ifa": 0.56,
+        "pac_limit": 1.4,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.7,
+        "without_ifa": 0.17,
+        "pac_limit": 0.35,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 12 (Hydrographic Survey Instrumentation, Cartography, and Oceanographic Systems) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 13,
+    "schedule_name": "Schedule 13: Naval Training Establishments, Simulators, and Educational Software",
+    "reference": "DFPDS-2026/NAVY/SCH-13",
+    "gazette_notification": "S.O. 2026/NAVY/013(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 160.0,
+        "without_ifa": 16.0,
+        "pac_limit": 80.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 80.0,
+        "without_ifa": 8.0,
+        "pac_limit": 40.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 24.0,
+        "without_ifa": 2.4,
+        "pac_limit": 12.0,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 8.0,
+        "without_ifa": 0.8,
+        "pac_limit": 4.0,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 3.2,
+        "without_ifa": 0.64,
+        "pac_limit": 1.6,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.8,
+        "without_ifa": 0.2,
+        "pac_limit": 0.4,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 13 (Naval Training Establishments, Simulators, and Educational Software) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 14,
+    "schedule_name": "Schedule 14: Officer & Sailor Victualing, Rations, and Fresh Provisions Replenishment",
+    "reference": "DFPDS-2026/NAVY/SCH-14",
+    "gazette_notification": "S.O. 2026/NAVY/014(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 180.0,
+        "without_ifa": 18.0,
+        "pac_limit": 90.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 90.0,
+        "without_ifa": 9.0,
+        "pac_limit": 45.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 27.0,
+        "without_ifa": 2.7,
+        "pac_limit": 13.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 9.0,
+        "without_ifa": 0.9,
+        "pac_limit": 4.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 3.6,
+        "without_ifa": 0.72,
+        "pac_limit": 1.8,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.9,
+        "without_ifa": 0.23,
+        "pac_limit": 0.45,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 14 (Officer & Sailor Victualing, Rations, and Fresh Provisions Replenishment) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 15,
+    "schedule_name": "Schedule 15: Naval Medical Stores, Hospital Diagnostic Systems, and Hyperbaric Chambers",
+    "reference": "DFPDS-2026/NAVY/SCH-15",
+    "gazette_notification": "S.O. 2026/NAVY/015(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 100.0,
+        "without_ifa": 10.0,
+        "pac_limit": 50.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 50.0,
+        "without_ifa": 5.0,
+        "pac_limit": 25.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 15.0,
+        "without_ifa": 1.5,
+        "pac_limit": 7.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 5.0,
+        "without_ifa": 0.5,
+        "pac_limit": 2.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.0,
+        "without_ifa": 0.4,
+        "pac_limit": 1.0,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.5,
+        "without_ifa": 0.12,
+        "pac_limit": 0.25,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 15 (Naval Medical Stores, Hospital Diagnostic Systems, and Hyperbaric Chambers) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 16,
+    "schedule_name": "Schedule 16: Clothing, Marine Combat Uniforms, and Specialized Foul-Weather Gear",
+    "reference": "DFPDS-2026/NAVY/SCH-16",
+    "gazette_notification": "S.O. 2026/NAVY/016(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 120.0,
+        "without_ifa": 12.0,
+        "pac_limit": 60.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 60.0,
+        "without_ifa": 6.0,
+        "pac_limit": 30.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 18.0,
+        "without_ifa": 1.8,
+        "pac_limit": 9.0,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 6.0,
+        "without_ifa": 0.6,
+        "pac_limit": 3.0,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.4,
+        "without_ifa": 0.48,
+        "pac_limit": 1.2,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.6,
+        "without_ifa": 0.15,
+        "pac_limit": 0.3,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 16 (Clothing, Marine Combat Uniforms, and Specialized Foul-Weather Gear) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 17,
+    "schedule_name": "Schedule 17: Naval Works, Operational Pier Maintenance, and Breakwater Structures",
+    "reference": "DFPDS-2026/NAVY/SCH-17",
+    "gazette_notification": "S.O. 2026/NAVY/017(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 140.0,
+        "without_ifa": 14.0,
+        "pac_limit": 70.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 70.0,
+        "without_ifa": 7.0,
+        "pac_limit": 35.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 21.0,
+        "without_ifa": 2.1,
+        "pac_limit": 10.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 7.0,
+        "without_ifa": 0.7,
+        "pac_limit": 3.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.8,
+        "without_ifa": 0.56,
+        "pac_limit": 1.4,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.7,
+        "without_ifa": 0.17,
+        "pac_limit": 0.35,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 17 (Naval Works, Operational Pier Maintenance, and Breakwater Structures) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 18,
+    "schedule_name": "Schedule 18: Special Infrastructure, Hardened Munitions Bunkers, and Security Fencing",
+    "reference": "DFPDS-2026/NAVY/SCH-18",
+    "gazette_notification": "S.O. 2026/NAVY/018(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 160.0,
+        "without_ifa": 16.0,
+        "pac_limit": 80.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 80.0,
+        "without_ifa": 8.0,
+        "pac_limit": 40.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 24.0,
+        "without_ifa": 2.4,
+        "pac_limit": 12.0,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 8.0,
+        "without_ifa": 0.8,
+        "pac_limit": 4.0,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 3.2,
+        "without_ifa": 0.64,
+        "pac_limit": 1.6,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.8,
+        "without_ifa": 0.2,
+        "pac_limit": 0.4,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 18 (Special Infrastructure, Hardened Munitions Bunkers, and Security Fencing) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 19,
+    "schedule_name": "Schedule 19: Hiring of Civilian Transport, Tug Assistance, and Port Pilotage Services",
+    "reference": "DFPDS-2026/NAVY/SCH-19",
+    "gazette_notification": "S.O. 2026/NAVY/019(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 180.0,
+        "without_ifa": 18.0,
+        "pac_limit": 90.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 90.0,
+        "without_ifa": 9.0,
+        "pac_limit": 45.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 27.0,
+        "without_ifa": 2.7,
+        "pac_limit": 13.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 9.0,
+        "without_ifa": 0.9,
+        "pac_limit": 4.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 3.6,
+        "without_ifa": 0.72,
+        "pac_limit": 1.8,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.9,
+        "without_ifa": 0.23,
+        "pac_limit": 0.45,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 19 (Hiring of Civilian Transport, Tug Assistance, and Port Pilotage Services) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 20,
+    "schedule_name": "Schedule 20: Freight, Sea-Lift Logistics, and Diplomatic Courier Clearance",
+    "reference": "DFPDS-2026/NAVY/SCH-20",
+    "gazette_notification": "S.O. 2026/NAVY/020(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 100.0,
+        "without_ifa": 10.0,
+        "pac_limit": 50.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 50.0,
+        "without_ifa": 5.0,
+        "pac_limit": 25.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 15.0,
+        "without_ifa": 1.5,
+        "pac_limit": 7.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 5.0,
+        "without_ifa": 0.5,
+        "pac_limit": 2.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.0,
+        "without_ifa": 0.4,
+        "pac_limit": 1.0,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.5,
+        "without_ifa": 0.12,
+        "pac_limit": 0.25,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 20 (Freight, Sea-Lift Logistics, and Diplomatic Courier Clearance) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 21,
+    "schedule_name": "Schedule 21: Consultancy Services, Specialized Technical Audits, and Naval Architecture",
+    "reference": "DFPDS-2026/NAVY/SCH-21",
+    "gazette_notification": "S.O. 2026/NAVY/021(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 120.0,
+        "without_ifa": 12.0,
+        "pac_limit": 60.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 60.0,
+        "without_ifa": 6.0,
+        "pac_limit": 30.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 18.0,
+        "without_ifa": 1.8,
+        "pac_limit": 9.0,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 6.0,
+        "without_ifa": 0.6,
+        "pac_limit": 3.0,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.4,
+        "without_ifa": 0.48,
+        "pac_limit": 1.2,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.6,
+        "without_ifa": 0.15,
+        "pac_limit": 0.3,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 21 (Consultancy Services, Specialized Technical Audits, and Naval Architecture) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 22,
+    "schedule_name": "Schedule 22: Security Services, Perimeter Surveillance, and Counter-Drone Installations",
+    "reference": "DFPDS-2026/NAVY/SCH-22",
+    "gazette_notification": "S.O. 2026/NAVY/022(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 140.0,
+        "without_ifa": 14.0,
+        "pac_limit": 70.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 70.0,
+        "without_ifa": 7.0,
+        "pac_limit": 35.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 21.0,
+        "without_ifa": 2.1,
+        "pac_limit": 10.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 7.0,
+        "without_ifa": 0.7,
+        "pac_limit": 3.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.8,
+        "without_ifa": 0.56,
+        "pac_limit": 1.4,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.7,
+        "without_ifa": 0.17,
+        "pac_limit": 0.35,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 22 (Security Services, Perimeter Surveillance, and Counter-Drone Installations) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 23,
+    "schedule_name": "Schedule 23: Environmental Protection, Oil Spill Response, and Marine Pollution Control",
+    "reference": "DFPDS-2026/NAVY/SCH-23",
+    "gazette_notification": "S.O. 2026/NAVY/023(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 160.0,
+        "without_ifa": 16.0,
+        "pac_limit": 80.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 80.0,
+        "without_ifa": 8.0,
+        "pac_limit": 40.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 24.0,
+        "without_ifa": 2.4,
+        "pac_limit": 12.0,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 8.0,
+        "without_ifa": 0.8,
+        "pac_limit": 4.0,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 3.2,
+        "without_ifa": 0.64,
+        "pac_limit": 1.6,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.8,
+        "without_ifa": 0.2,
+        "pac_limit": 0.4,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 23 (Environmental Protection, Oil Spill Response, and Marine Pollution Control) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 24,
+    "schedule_name": "Schedule 24: Naval Aviation Ground Support Equipment and Aircraft Refueling Units",
+    "reference": "DFPDS-2026/NAVY/SCH-24",
+    "gazette_notification": "S.O. 2026/NAVY/024(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 180.0,
+        "without_ifa": 18.0,
+        "pac_limit": 90.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 90.0,
+        "without_ifa": 9.0,
+        "pac_limit": 45.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 27.0,
+        "without_ifa": 2.7,
+        "pac_limit": 13.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 9.0,
+        "without_ifa": 0.9,
+        "pac_limit": 4.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 3.6,
+        "without_ifa": 0.72,
+        "pac_limit": 1.8,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.9,
+        "without_ifa": 0.23,
+        "pac_limit": 0.45,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 24 (Naval Aviation Ground Support Equipment and Aircraft Refueling Units) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 25,
+    "schedule_name": "Schedule 25: Minor Machinery Spares, Pumps, Valves, and Auxiliary Engine Overhauls",
+    "reference": "DFPDS-2026/NAVY/SCH-25",
+    "gazette_notification": "S.O. 2026/NAVY/025(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 100.0,
+        "without_ifa": 10.0,
+        "pac_limit": 50.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 50.0,
+        "without_ifa": 5.0,
+        "pac_limit": 25.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 15.0,
+        "without_ifa": 1.5,
+        "pac_limit": 7.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 5.0,
+        "without_ifa": 0.5,
+        "pac_limit": 2.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.0,
+        "without_ifa": 0.4,
+        "pac_limit": 1.0,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.5,
+        "without_ifa": 0.12,
+        "pac_limit": 0.25,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 25 (Minor Machinery Spares, Pumps, Valves, and Auxiliary Engine Overhauls) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 26,
+    "schedule_name": "Schedule 26: Electronic Warfare Spares, Sonar Transducers, and Radar Magnetrons",
+    "reference": "DFPDS-2026/NAVY/SCH-26",
+    "gazette_notification": "S.O. 2026/NAVY/026(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 120.0,
+        "without_ifa": 12.0,
+        "pac_limit": 60.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 60.0,
+        "without_ifa": 6.0,
+        "pac_limit": 30.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 18.0,
+        "without_ifa": 1.8,
+        "pac_limit": 9.0,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 6.0,
+        "without_ifa": 0.6,
+        "pac_limit": 3.0,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.4,
+        "without_ifa": 0.48,
+        "pac_limit": 1.2,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.6,
+        "without_ifa": 0.15,
+        "pac_limit": 0.3,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 26 (Electronic Warfare Spares, Sonar Transducers, and Radar Magnetrons) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 27,
+    "schedule_name": "Schedule 27: Disaster Relief, HADR Stores, and Humanitarian Assistance Operations",
+    "reference": "DFPDS-2026/NAVY/SCH-27",
+    "gazette_notification": "S.O. 2026/NAVY/027(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 140.0,
+        "without_ifa": 14.0,
+        "pac_limit": 70.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 70.0,
+        "without_ifa": 7.0,
+        "pac_limit": 35.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 21.0,
+        "without_ifa": 2.1,
+        "pac_limit": 10.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 7.0,
+        "without_ifa": 0.7,
+        "pac_limit": 3.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.8,
+        "without_ifa": 0.56,
+        "pac_limit": 1.4,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.7,
+        "without_ifa": 0.17,
+        "pac_limit": 0.35,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 27 (Disaster Relief, HADR Stores, and Humanitarian Assistance Operations) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 28,
+    "schedule_name": "Schedule 28: Maritime Domain Awareness Systems, Coastal Radar, and AIS Transponders",
+    "reference": "DFPDS-2026/NAVY/SCH-28",
+    "gazette_notification": "S.O. 2026/NAVY/028(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 160.0,
+        "without_ifa": 16.0,
+        "pac_limit": 80.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 80.0,
+        "without_ifa": 8.0,
+        "pac_limit": 40.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 24.0,
+        "without_ifa": 2.4,
+        "pac_limit": 12.0,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 8.0,
+        "without_ifa": 0.8,
+        "pac_limit": 4.0,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 3.2,
+        "without_ifa": 0.64,
+        "pac_limit": 1.6,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.8,
+        "without_ifa": 0.2,
+        "pac_limit": 0.4,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 28 (Maritime Domain Awareness Systems, Coastal Radar, and AIS Transponders) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 29,
+    "schedule_name": "Schedule 29: Ship-borne Helicopter Maintenance and Dynamic Component Replacements",
+    "reference": "DFPDS-2026/NAVY/SCH-29",
+    "gazette_notification": "S.O. 2026/NAVY/029(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 180.0,
+        "without_ifa": 18.0,
+        "pac_limit": 90.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 90.0,
+        "without_ifa": 9.0,
+        "pac_limit": 45.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 27.0,
+        "without_ifa": 2.7,
+        "pac_limit": 13.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 9.0,
+        "without_ifa": 0.9,
+        "pac_limit": 4.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 3.6,
+        "without_ifa": 0.72,
+        "pac_limit": 1.8,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.9,
+        "without_ifa": 0.23,
+        "pac_limit": 0.45,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 29 (Ship-borne Helicopter Maintenance and Dynamic Component Replacements) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 30,
+    "schedule_name": "Schedule 30: Naval Base Fire Fighting Systems, Damage Control Simulators, and NBCD Gear",
+    "reference": "DFPDS-2026/NAVY/SCH-30",
+    "gazette_notification": "S.O. 2026/NAVY/030(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 100.0,
+        "without_ifa": 10.0,
+        "pac_limit": 50.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 50.0,
+        "without_ifa": 5.0,
+        "pac_limit": 25.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 15.0,
+        "without_ifa": 1.5,
+        "pac_limit": 7.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 5.0,
+        "without_ifa": 0.5,
+        "pac_limit": 2.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.0,
+        "without_ifa": 0.4,
+        "pac_limit": 1.0,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.5,
+        "without_ifa": 0.12,
+        "pac_limit": 0.25,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 30 (Naval Base Fire Fighting Systems, Damage Control Simulators, and NBCD Gear) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 31,
+    "schedule_name": "Schedule 31: Welfare, Sports Amenities, and Naval Sailor Recreation Centers",
+    "reference": "DFPDS-2026/NAVY/SCH-31",
+    "gazette_notification": "S.O. 2026/NAVY/031(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 120.0,
+        "without_ifa": 12.0,
+        "pac_limit": 60.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 60.0,
+        "without_ifa": 6.0,
+        "pac_limit": 30.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 18.0,
+        "without_ifa": 1.8,
+        "pac_limit": 9.0,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 6.0,
+        "without_ifa": 0.6,
+        "pac_limit": 3.0,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.4,
+        "without_ifa": 0.48,
+        "pac_limit": 1.2,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.6,
+        "without_ifa": 0.15,
+        "pac_limit": 0.3,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 31 (Welfare, Sports Amenities, and Naval Sailor Recreation Centers) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  },
+  {
+    "schedule_no": 32,
+    "schedule_name": "Schedule 32: Contingency Grants, Fleet Commander Discretionary Fund, and Protocol Expenses",
+    "reference": "DFPDS-2026/NAVY/SCH-32",
+    "gazette_notification": "S.O. 2026/NAVY/032(E)",
+    "effective_date": "01 January 2026",
+    "tiers": [
+      {
+        "tier": "Tier 1",
+        "tier_name": "Chief of the Naval Staff (CNS)",
+        "with_ifa": 140.0,
+        "without_ifa": 14.0,
+        "pac_limit": 70.0,
+        "notes": "Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      },
+      {
+        "tier": "Tier 2",
+        "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+        "with_ifa": 70.0,
+        "without_ifa": 7.0,
+        "pac_limit": 35.0,
+        "notes": "Applicable for Western, Eastern, and Southern Naval Commands."
+      },
+      {
+        "tier": "Tier 3",
+        "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+        "with_ifa": 21.0,
+        "without_ifa": 2.1,
+        "pac_limit": 10.5,
+        "notes": "Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      },
+      {
+        "tier": "Tier 4",
+        "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+        "with_ifa": 7.0,
+        "without_ifa": 0.7,
+        "pac_limit": 3.5,
+        "notes": "Exercisable for operational units within designated maritime sector."
+      },
+      {
+        "tier": "Tier 5",
+        "tier_name": "Commanding Officer (CO) \u2014 Capital Ship (Carrier / Destroyer / Frigate)",
+        "with_ifa": 2.8,
+        "without_ifa": 0.56,
+        "pac_limit": 1.4,
+        "notes": "Direct sanction for urgent operational mission replenishment at sea or foreign ports."
+      },
+      {
+        "tier": "Tier 6",
+        "tier_name": "Commanding Officer (CO) \u2014 Minor War Vessel / Shore Base",
+        "with_ifa": 0.7,
+        "without_ifa": 0.17,
+        "pac_limit": 0.35,
+        "notes": "Unit level local purchase and minor repairs under strict accounting ledger."
+      }
+    ],
+    "clauses": [
+      "1. Preamble & Applicability: In exercise of the powers conferred by the Government of India, the financial powers contained in Schedule 32 (Contingency Grants, Fleet Commander Discretionary Fund, and Protocol Expenses) are hereby delegated to the designated Competent Financial Authorities (CFAs) of the Indian Navy.",
+      "2. Integrated Financial Concurrence: Sanctions exceeding the 'Without IFA' threshold require the prior formal concurrence of the accredited Integrated Financial Advisor (IFA). Slicing or splitting of indents to evade IFA concurrence is strictly prohibited under Rule 142 of DFPDS-2026.",
+      "3. Proprietary Article Certificate (PAC) Sanctions: Procurement on a proprietary basis under PAC shall strictly comply with DPM 2025 Chapter 3 guidelines and cannot exceed the PAC ceiling of 50% of the total delegation tier without explicit Ministry approval.",
+      "4. Emergency Replenishment at Sea: Commanding Officers of capital warships on operational deployment outside territorial waters may exercise emergency powers up to 1.5x the normal limit under Category E protocols with post-facto ratification within 30 days."
+    ]
+  }
+]
