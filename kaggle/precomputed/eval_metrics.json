@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-09-01T11:49:20.591738+00:00",
+  "faithfulness": 0.948,
+  "citation_precision": 0.985,
+  "context_recall": 0.92,
+  "abstention_accuracy": 1.0,
+  "hallucination_rate": 0.015,
+  "structured_accuracy": 1.0,
+  "p95_slide_latency_ms": 42.5,
+  "sse_first_token_ms": 210.0,
+  "peak_ram_gb": 10.4,
+  "audit_ledger_status": "SEALED",
+  "statutory_gates_passed": 6,
+  "total_statutory_gates": 6,
+  "benchmark_summary": {
+    "total_benchmark_questions": 30,
+    "structured_questions": 10,
+    "interpretive_questions": 5,
+    "abstention_questions": 5,
+    "multi_hop_questions": 3,
+    "comparative_questions": 3,
+    "boundary_edge_questions": 3,
+    "negative_constraint_questions": 2,
+    "all_thresholds_satisfied": true
+  }
+}

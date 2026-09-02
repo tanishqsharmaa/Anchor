@@ -1,0 +1,242 @@
+{
+  "Q001": {
+    "id": "Q001",
+    "question": "What is the financial limit for Chief of the Naval Staff under Schedule 1 with IFA concurrence?",
+    "category": "CFA Financial Delegation",
+    "query_type": "structured",
+    "status": "certified",
+    "prediction": "Under DFPDS-2026 Schedule 01: Procurement of Capital Spares, Assemblies, and Armament Stores (DFPDS-2026/NAVY/SCH-01), a Chief of the Naval Staff (CNS) (Tier 1) may sanction up to ₹120.00 Crore with IFA concurrence.\nStatutory Note: Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A.",
+    "pred_source": "DFPDS-2026/NAVY/SCH-01",
+    "pred_section": "Page 1",
+    "citations": [
+      {
+        "document": "DFPDS-2026/NAVY/SCH-01",
+        "page": 1,
+        "bbox": [
+          72.0,
+          150.0,
+          540.0,
+          320.0
+        ],
+        "byte_offset": 0,
+        "byte_length": 311,
+        "sha256": "fd6ec720876e5d03012cf2c819ad0e11672d18a5a395498e2d19b4dee89919da",
+        "text_snippet": "Under DFPDS-2026 Schedule 01: Procurement of Capital Spares, Assemblies, and Armament Stores (DFPDS-2026/NAVY/SCH-01), a Chief of the Naval Staff (CNS) (Tier 1) may sanction up to ₹120.00 Crore with IFA concurrence.\nStatutory Note: Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A."
+      }
+    ],
+    "reason": null,
+    "explanation": null,
+    "latency_ms": 1.92,
+    "events_count": 3
+  },
+  "Q002": {
+    "id": "Q002",
+    "question": "What is the financial power of a Fleet Commander under Schedule 7 for major repairs with IFA?",
+    "category": "CFA Financial Delegation",
+    "query_type": "structured",
+    "status": "certified",
+    "prediction": "Under DFPDS-2026 Schedule 07: Ship Repairs, Refits, Dry-Docking, and Hull Preservation (DFPDS-2026/NAVY/SCH-07), a Fleet Commander / ASD (Naval Dockyard) / FOMA (Tier 3) may sanction up to ₹21.00 Crore with IFA concurrence.\nStatutory Note: Requires Command IFA concurrence for amounts exceeding without-IFA threshold.",
+    "pred_source": "DFPDS-2026/NAVY/SCH-07",
+    "pred_section": "Page 7",
+    "citations": [
+      {
+        "document": "DFPDS-2026/NAVY/SCH-07",
+        "page": 7,
+        "bbox": [
+          72.0,
+          150.0,
+          540.0,
+          320.0
+        ],
+        "byte_offset": 0,
+        "byte_length": 319,
+        "sha256": "3a7ab0c5e8ec48cafbb562fdd14b8e5c41df723460de9dddfb9f76bee3a7835c",
+        "text_snippet": "Under DFPDS-2026 Schedule 07: Ship Repairs, Refits, Dry-Docking, and Hull Preservation (DFPDS-2026/NAVY/SCH-07), a Fleet Commander / ASD (Naval Dockyard) / FOMA (Tier 3) may sanction up to ₹21.00 Crore with IFA concurrence.\nStatutory Note: Requires Command IFA concurrence for amounts exceeding without-IFA threshold."
+      }
+    ],
+    "reason": null,
+    "explanation": null,
+    "latency_ms": 1.09,
+    "events_count": 3
+  },
+  "Q003": {
+    "id": "Q003",
+    "question": "What is the sanction limit for Commodore under Schedule 18 for communication systems without IFA?",
+    "category": "CFA Financial Delegation",
+    "query_type": "structured",
+    "status": "certified",
+    "prediction": "Under DFPDS-2026 Schedule 18: Special Infrastructure, Hardened Munitions Bunkers, and Security Fencing (DFPDS-2026/NAVY/SCH-18), a Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC) (Tier 4) may sanction up to ₹0.80 Crore without IFA concurrence.\nStatutory Note: Exercisable for operational units within designated maritime sector.",
+    "pred_source": "DFPDS-2026/NAVY/SCH-18",
+    "pred_section": "Page 18",
+    "citations": [
+      {
+        "document": "DFPDS-2026/NAVY/SCH-18",
+        "page": 18,
+        "bbox": [
+          72.0,
+          150.0,
+          540.0,
+          320.0
+        ],
+        "byte_offset": 0,
+        "byte_length": 341,
+        "sha256": "183f11499bc54a37ab135723f8267b7bf40e7b13940f739d701a4a1d524319d2",
+        "text_snippet": "Under DFPDS-2026 Schedule 18: Special Infrastructure, Hardened Munitions Bunkers, and Security Fencing (DFPDS-2026/NAVY/SCH-18), a Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC) (Tier 4) may sanction up to ₹0.80 Crore without IFA concurrence.\nStatutory Note: Exercisable for operational units within designated maritime sector."
+      }
+    ],
+    "reason": null,
+    "explanation": null,
+    "latency_ms": 1.41,
+    "events_count": 3
+  },
+  "Q004": {
+    "id": "Q004",
+    "question": "What is the financial threshold for mandatory Open Tender Enquiry (OTE) under DPM-2025?",
+    "category": "Procurement Threshold",
+    "query_type": "structured",
+    "status": "abstain",
+    "prediction": "[CERTIFIED ABSTENTION: UNVERIFIED_STATUTORY_CLAIM] The synthesized claims could not meet the mandatory NLI entailment threshold (>= 0.85) against source text.",
+    "pred_source": "DPM-2025",
+    "pred_section": "Mode: OTE",
+    "citations": [],
+    "reason": "UNVERIFIED_STATUTORY_CLAIM",
+    "explanation": "The synthesized claims could not meet the mandatory NLI entailment threshold (>= 0.85) against source text.",
+    "latency_ms": 13941.23,
+    "events_count": 7
+  },
+  "Q005": {
+    "id": "Q005",
+    "question": "What is the standard Performance Bank Guarantee (PBG) percentage required for naval procurement contracts?",
+    "category": "Procurement Threshold",
+    "query_type": "structured",
+    "status": "certified",
+    "prediction": "GOVERNMENT OF INDIA • MINISTRY OF DEFENCE\nDEFENCE PROCUREMENT MANUAL 2025 (DPM-2025)\nCHAPTER 04: CONTRACT GUARANTEES, LIQUIDATED DAMAGES & PENALTIES\nReference Identifier:  DPM-2025/DMA/CH-04\nCore Subject Domains:  Performance Bank Guarantee (PBG) • Liquidated Damages (LD) • Warranty Clauses • Arbitr",
+    "pred_source": "DPM_2025_Chapter_04",
+    "pred_section": "Page 1",
+    "citations": [
+      {
+        "document": "DPM_2025_Chapter_04",
+        "page": 1,
+        "bbox": [
+          48.519691467285156,
+          39.10574722290039,
+          546.7562866210938,
+          193.0572509765625
+        ],
+        "byte_offset": 0,
+        "byte_length": 577,
+        "sha256": "9cf577171db728b032a49c88099468502232f078c273cb38f934cd6a965c9538",
+        "text_snippet": "GOVERNMENT OF INDIA • MINISTRY OF DEFENCE\nDEFENCE PROCUREMENT MANUAL 2025 (DPM-2025)\nCHAPTER 04: CONTRACT GUARANTEES, LIQUIDATED DAMAGES & PENALTIES\nReference Identifier:  DPM-2025/DMA/CH-04\nCore Subject Domains:  Performance Bank Guarantee (PBG) • Liquidated Damages (LD) • Warranty Clauses • Arbitration\nMANDATORY PROCUREMENT DIRECTIVES & PROCEDURES:\n• 1. Performance Bank Guarantee (PBG): Successf"
+      }
+    ],
+    "reason": null,
+    "explanation": null,
+    "latency_ms": 6021.34,
+    "events_count": 7
+  },
+  "Q006": {
+    "id": "Q006",
+    "question": "What is the maximum Liquidated Damages (LD) rate and ceiling permitted under DPM-2025 for delivery delays?",
+    "category": "Procurement Threshold",
+    "query_type": "structured",
+    "status": "abstain",
+    "prediction": "[CERTIFIED ABSTENTION: UNVERIFIED_STATUTORY_CLAIM] The synthesized claims could not meet the mandatory NLI entailment threshold (>= 0.85) against source text.",
+    "pred_source": "DPM-2025",
+    "pred_section": "Mode: LD",
+    "citations": [],
+    "reason": "UNVERIFIED_STATUTORY_CLAIM",
+    "explanation": "The synthesized claims could not meet the mandatory NLI entailment threshold (>= 0.85) against source text.",
+    "latency_ms": 7101.17,
+    "events_count": 7
+  },
+  "Q007": {
+    "id": "Q007",
+    "question": "Can a Commanding Officer of a Frigate invoke emergency procurement powers to bypass standard GeM portal rules for urgent propulsion repairs in operational waters?",
+    "category": "Emergency Powers & GeM Compliance",
+    "query_type": "interpretive",
+    "status": "abstain",
+    "prediction": "[CERTIFIED ABSTENTION: INSUFFICIENT_CORPUS_CONTEXT] No sufficiently relevant or authoritative clauses were found in the indexed regulatory corpus.",
+    "pred_source": "DFPDS-2026",
+    "pred_section": "General Provision",
+    "citations": [],
+    "reason": "INSUFFICIENT_CORPUS_CONTEXT",
+    "explanation": "No sufficiently relevant or authoritative clauses were found in the indexed regulatory corpus.",
+    "latency_ms": 5991.48,
+    "events_count": 5
+  },
+  "Q008": {
+    "id": "Q008",
+    "question": "Under what specific operational conditions is Single Tender Enquiry (STE) justified for proprietary defence hardware replenishment?",
+    "category": "Tendering Modes & Single Source",
+    "query_type": "interpretive",
+    "status": "abstain",
+    "prediction": "[CERTIFIED ABSTENTION: UNVERIFIED_STATUTORY_CLAIM] The synthesized claims could not meet the mandatory NLI entailment threshold (>= 0.85) against source text.",
+    "pred_source": "DFPDS-2026",
+    "pred_section": "General Provision",
+    "citations": [],
+    "reason": "UNVERIFIED_STATUTORY_CLAIM",
+    "explanation": "The synthesized claims could not meet the mandatory NLI entailment threshold (>= 0.85) against source text.",
+    "latency_ms": 10801.33,
+    "events_count": 7
+  },
+  "Q009": {
+    "id": "Q009",
+    "question": "Explain the statutory conflict resolution hierarchy when DFPDS-2026 delegations overlap with general DPM-2025 procurement procedures.",
+    "category": "Statutory Precedence & Conflict Resolution",
+    "query_type": "interpretive",
+    "status": "abstain",
+    "prediction": "[CERTIFIED ABSTENTION: UNVERIFIED_STATUTORY_CLAIM] The synthesized claims could not meet the mandatory NLI entailment threshold (>= 0.85) against source text.",
+    "pred_source": "DFPDS-2026",
+    "pred_section": "General Provision",
+    "citations": [],
+    "reason": "UNVERIFIED_STATUTORY_CLAIM",
+    "explanation": "The synthesized claims could not meet the mandatory NLI entailment threshold (>= 0.85) against source text.",
+    "latency_ms": 10799.14,
+    "events_count": 7
+  },
+  "Q010": {
+    "id": "Q010",
+    "question": "What are the statutory duties and navigational responsibilities of the Officer of the Watch (OOW) under Navy Regulations Part I?",
+    "category": "Navy Regulations Governance",
+    "query_type": "interpretive",
+    "status": "abstain",
+    "prediction": "[CERTIFIED ABSTENTION: UNVERIFIED_STATUTORY_CLAIM] The synthesized claims could not meet the mandatory NLI entailment threshold (>= 0.85) against source text.",
+    "pred_source": "DFPDS-2026",
+    "pred_section": "General Provision",
+    "citations": [],
+    "reason": "UNVERIFIED_STATUTORY_CLAIM",
+    "explanation": "The synthesized claims could not meet the mandatory NLI entailment threshold (>= 0.85) against source text.",
+    "latency_ms": 9671.99,
+    "events_count": 7
+  },
+  "Q011": {
+    "id": "Q011",
+    "question": "What is the capital budget allocation for INS Vishal aircraft carrier construction in FY 2027?",
+    "category": "Out of Domain Refusal",
+    "query_type": "interpretive",
+    "status": "abstain",
+    "prediction": "[CERTIFIED ABSTENTION: INSUFFICIENT_CORPUS_CONTEXT] No sufficiently relevant or authoritative clauses were found in the indexed regulatory corpus.",
+    "pred_source": "DFPDS-2026",
+    "pred_section": "General Provision",
+    "citations": [],
+    "reason": "INSUFFICIENT_CORPUS_CONTEXT",
+    "explanation": "No sufficiently relevant or authoritative clauses were found in the indexed regulatory corpus.",
+    "latency_ms": 2107.47,
+    "events_count": 5
+  },
+  "Q012": {
+    "id": "Q012",
+    "question": "What is the financial delegation limit for Vice Chief of Naval Staff under Schedule 99?",
+    "category": "Out of Bounds Schedule",
+    "query_type": "structured",
+    "status": "abstain",
+    "prediction": "[CERTIFIED ABSTENTION: OUT_OF_DOMAIN_QUERY] Schedule 99 is outside the statutory DFPDS-2026 range (Schedules 01–32).",
+    "pred_source": "DFPDS-2026/NAVY/SCH-99",
+    "pred_section": "Tier 2",
+    "citations": [],
+    "reason": "OUT_OF_DOMAIN_QUERY",
+    "explanation": "Schedule 99 is outside the statutory DFPDS-2026 range (Schedules 01–32).",
+    "latency_ms": 0.15,
+    "events_count": 2
+  }
+}

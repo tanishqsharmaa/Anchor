@@ -1,0 +1,882 @@
+{
+  "autodeck_sch07_uav": {
+    "deck_id": "deck_dfpds_sch07_c42fd1fc",
+    "title": "DFPDS-2026 Schedule 7: Schedule 07: Ship Repairs, Refits, Dry-Docking, and Hull Preservation",
+    "topic": "Procurement of Tactical Drones under Schedule 7",
+    "context": "Emergency replenishment for MARCOS special operations and Western Fleet surveillance.",
+    "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+    "dtg": "011149Z SEP 2026",
+    "ast": {
+      "deck_id": "deck_dfpds_sch07_c42fd1fc",
+      "title": "DFPDS-2026 Schedule 7: Schedule 07: Ship Repairs, Refits, Dry-Docking, and Hull Preservation",
+      "topic": "Procurement of Tactical Drones under Schedule 7",
+      "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+      "dtg": "011149Z SEP 2026",
+      "slides": [
+        {
+          "slide_id": "slide_01",
+          "type": "HERO_SLIDE",
+          "title": "EXECUTIVE BRIEFING: FINANCIAL DELEGATION",
+          "content": {
+            "title": "DFPDS-2026 SCHEDULE 07",
+            "subtitle": "SCHEDULE 07: SHIP REPAIRS, REFITS, DRY-DOCKING, AND HULL PRESERVATION",
+            "dtg": "011149Z SEP 2026",
+            "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+            "officer": "NAVAL FINANCIAL COMPLIANCE DESK",
+            "unit": "INTEGRATED HQ MOD (NAVY)"
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/Schedule_07"
+        },
+        {
+          "slide_id": "slide_02",
+          "type": "BLUF_EXECUTIVE",
+          "title": "EXECUTIVE SUMMARY (BLUF)",
+          "content": {
+            "bluf_headline": "Delegation limits under DFPDS-2026 Schedule 7 (Schedule 07: Ship Repairs, Refits, Dry-Docking, and Hull Preservation)",
+            "key_takeaways": [
+              "CNS (Tier 1) sanction authority: ₹140.00 Cr (with IFA) / ₹14.00 Cr (without IFA).",
+              "Fleet Commander (Tier 3) authority: ₹21.00 Cr (with IFA) / ₹2.10 Cr (without IFA).",
+              "Mandatory IFA concurrence required for all sanctions exceeding without-IFA thresholds."
+            ],
+            "decision_requested": "Exercise sanction powers strictly within CFA delegated financial thresholds.",
+            "risk_summary": "Sanctions exceeding delegated thresholds without IFA concurrence constitute audit violations.",
+            "urgency": "PRIORITY"
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/Schedule_07"
+        },
+        {
+          "slide_id": "slide_03",
+          "type": "FINANCIAL_DELEGATION",
+          "title": "COMPETENT FINANCIAL AUTHORITY LIMITS",
+          "content": {
+            "schedule_title": "Schedule 7: Schedule 07: Ship Repairs, Refits, Dry-Docking, and Hull Preservation",
+            "schedule_no": 7,
+            "head_of_account": "Major Head 2077 - Navy (Revenue / Capital)",
+            "tiers": [
+              {
+                "tier": "Tier 1",
+                "tier_name": "Chief of the Naval Staff (CNS)",
+                "with_ifa_limit": 140.0,
+                "without_ifa_limit": 14.0,
+                "pac_limit": 70.0,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 2",
+                "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+                "with_ifa_limit": 70.0,
+                "without_ifa_limit": 7.0,
+                "pac_limit": 35.0,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 3",
+                "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+                "with_ifa_limit": 21.0,
+                "without_ifa_limit": 2.1,
+                "pac_limit": 10.5,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 4",
+                "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+                "with_ifa_limit": 7.0,
+                "without_ifa_limit": 0.7,
+                "pac_limit": 3.5,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 5",
+                "tier_name": "Commanding Officer (CO) — Capital Ship (Carrier / Destroyer / Frigate)",
+                "with_ifa_limit": 2.8,
+                "without_ifa_limit": 0.56,
+                "pac_limit": 1.4,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 6",
+                "tier_name": "Commanding Officer (CO) — Minor War Vessel / Shore Base",
+                "with_ifa_limit": 0.7,
+                "without_ifa_limit": 0.17,
+                "pac_limit": 0.35,
+                "unit_str": "₹ Crore"
+              }
+            ],
+            "indigenisation_percentage": 60.0,
+            "notes": "PAC / Single Tender procurement subject to specific justification certificates."
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/Schedule_07"
+        },
+        {
+          "slide_id": "slide_04",
+          "type": "POLICY_MATRIX",
+          "title": "TENDERING & CONCURRENCE POLICY MATRIX",
+          "content": {
+            "matrix_title": "Procurement Mode & Concurrence Rules",
+            "headers": [
+              "Parameter",
+              "Open Tender Enquiry (OTE)",
+              "Single Tender / PAC (STE)"
+            ],
+            "rows": [
+              {
+                "row_title": "Competition Requirement",
+                "cells": [
+                  "Minimum 3 competitive bids",
+                  "PAC Certificate mandatory"
+                ]
+              },
+              {
+                "row_title": "Financial Threshold",
+                "cells": [
+                  "Full delegated tier limit",
+                  "50% of delegated tier limit"
+                ]
+              },
+              {
+                "row_title": "IFA Concurrence",
+                "cells": [
+                  "Above without-IFA limit",
+                  "Mandatory for all PAC cases"
+                ]
+              }
+            ],
+            "statutory_precedence_note": "DFPDS-2026 provisions prevail over general procurement provisions."
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/General_Financial_Rules"
+        }
+      ],
+      "total_slides": 4,
+      "generation_time_ms": 5
+    },
+    "html_slides": [
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_01'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='bg-[#112240] border border-[#00E5FF]/40 rounded-xl p-8 max-w-4xl mx-auto text-center shadow-lg'>\n      <div class='text-xs font-mono text-[#00E5FF] font-bold tracking-wider mb-2'>INDIAN NAVAL STAFF BRIEFING</div>\n      <h1 class='text-3xl md:text-4xl font-extrabold text-white tracking-wide uppercase font-serif'>DFPDS-2026 SCHEDULE 07</h1>\n      <h2 class='text-xl text-[#FFD700] font-medium mt-2'>SCHEDULE 07: SHIP REPAIRS, REFITS, DRY-DOCKING, AND HULL PRESERVATION</h2>\n      <div class='mt-6 pt-6 border-t border-[#233554] flex justify-around text-xs text-slate-300 font-mono'>\n        <div><span class='text-slate-400'>PRESENTER:</span> <strong class='text-white'>NAVAL FINANCIAL COMPLIANCE DESK</strong></div>\n        <div><span class='text-slate-400'>COMMAND:</span> <strong class='text-white'>INTEGRATED HQ MOD (NAVY)</strong></div>\n      </div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 01 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>",
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_02'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='w-full'>\n      <h2 class='text-xl font-bold text-white mb-4 tracking-wide border-l-4 border-[#00E5FF] pl-3'>EXECUTIVE SUMMARY (BLUF)</h2>\n      <div class='grid grid-cols-1 md:grid-cols-12 gap-6'>\n        <!-- Left Column: BLUF & Takeaways -->\n        <div class='md:col-span-7 bg-[#112240] p-5 rounded-lg border border-[#233554]'>\n          <div class='text-xs font-mono font-bold text-[#FFD700] uppercase mb-1'>BOTTOM LINE UP FRONT</div>\n          <p class='text-base font-semibold text-white mb-4'>Delegation limits under DFPDS-2026 Schedule 7 (Schedule 07: Ship Repairs, Refits, Dry-Docking, and Hull Preservation)</p>\n          <div class='text-xs font-mono font-bold text-[#00E5FF] uppercase mb-2'>KEY FINDINGS & TAKEAWAYS</div>\n          <ul class='space-y-2'>\n          <li class='text-sm text-slate-200 leading-relaxed'>• CNS (Tier 1) sanction authority: ₹140.00 Cr (with IFA) / ₹14.00 Cr (without IFA).</li>\n          <li class='text-sm text-slate-200 leading-relaxed'>• Fleet Commander (Tier 3) authority: ₹21.00 Cr (with IFA) / ₹2.10 Cr (without IFA).</li>\n          <li class='text-sm text-slate-200 leading-relaxed'>• Mandatory IFA concurrence required for all sanctions exceeding without-IFA thresholds.</li>\n          </ul>\n        </div>\n        <!-- Right Column: Decision & Risk -->\n        <div class='md:col-span-5 bg-[#112240] p-5 rounded-lg border border-[#233554] flex flex-col justify-between'>\n          <div>\n            <div class='flex justify-between items-center mb-2'>\n              <span class='text-xs font-mono text-slate-400'>URGENCY</span>\n              <span class='text-xs font-mono font-bold px-2 py-0.5 rounded bg-cyan-950 text-[#00E5FF] border border-[#00E5FF]/30'>PRIORITY</span>\n            </div>\n            <div class='text-xs font-mono font-bold text-[#FFD700] uppercase mt-2'>DECISION REQUESTED</div>\n            <p class='text-sm font-medium text-white mt-1'>Exercise sanction powers strictly within CFA delegated financial thresholds.</p>\n            <div class='mt-4'><span class='text-xs font-bold font-mono text-red-400 uppercase'>OPERATIONAL RISK:</span><p class='text-sm text-slate-300 mt-1'>Sanctions exceeding delegated thresholds without IFA concurrence constitute audit violations.</p></div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 02 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>",
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_03'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='w-full'>\n      <h2 class='text-xl font-bold text-white mb-3 tracking-wide border-l-4 border-[#00E5FF] pl-3'>COMPETENT FINANCIAL AUTHORITY LIMITS</h2>\n      <div class='overflow-x-auto rounded-lg border border-[#233554] bg-[#0A192F]'>\n        <table class='w-full border-collapse'>\n          <thead>\n            <tr class='bg-[#112240] text-left text-xs font-mono font-bold text-slate-300 border-b border-[#233554]'>\n              <th class='p-2 text-[#00E5FF]'>TIER</th>\n              <th class='p-2'>COMPETENT FINANCIAL AUTHORITY</th>\n              <th class='p-2 text-right text-[#FFD700]'>WITH IFA</th>\n              <th class='p-2 text-right'>WITHOUT IFA</th>\n              <th class='p-2 text-right'>PAC LIMIT</th>\n            </tr>\n          </thead>\n          <tbody>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 1</td>\n  <td class='p-2 text-xs text-white font-medium'>Chief of the Naval Staff (CNS)</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹140.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹14.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹70.00 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 2</td>\n  <td class='p-2 text-xs text-white font-medium'>Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹70.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹7.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹35.00 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 3</td>\n  <td class='p-2 text-xs text-white font-medium'>Fleet Commander / ASD (Naval Dockyard) / FOMA</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹21.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹2.10 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹10.50 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 4</td>\n  <td class='p-2 text-xs text-white font-medium'>Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹7.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹0.70 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹3.50 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 5</td>\n  <td class='p-2 text-xs text-white font-medium'>Commanding Officer (CO) — Capital Ship (Carrier / Destroyer / Frigate)</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹2.80 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹0.56 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹1.40 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 6</td>\n  <td class='p-2 text-xs text-white font-medium'>Commanding Officer (CO) — Minor War Vessel / Shore Base</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹0.70 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹0.17 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹0.35 Cr</td>\n</tr>\n</tbody>\n        </table>\n      </div>\n      <div class='mt-3 text-xs font-mono text-slate-400'>STATUTORY PROVISO: PAC / Single Tender procurement subject to specific justification certificates.</div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 03 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>",
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_04'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='w-full'>\n      <h2 class='text-xl font-bold text-white mb-3 tracking-wide border-l-4 border-[#00E5FF] pl-3'>TENDERING &amp; CONCURRENCE POLICY MATRIX</h2>\n      <div class='overflow-x-auto rounded-lg border border-[#233554] bg-[#0A192F]'>\n        <table class='w-full border-collapse'>\n          <thead><tr><th class='p-2.5 text-left text-xs font-mono font-bold text-[#00E5FF] bg-[#112240] border-b border-[#233554]'>Parameter</th><th class='p-2.5 text-left text-xs font-mono font-bold text-[#00E5FF] bg-[#112240] border-b border-[#233554]'>Open Tender Enquiry (OTE)</th><th class='p-2.5 text-left text-xs font-mono font-bold text-[#00E5FF] bg-[#112240] border-b border-[#233554]'>Single Tender / PAC (STE)</th></tr></thead>\n          <tbody>\n<tr class='hover:bg-[#112240]/40 transition-colors'><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 font-semibold text-white'>Competition Requirement</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Minimum 3 competitive bids</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>PAC Certificate mandatory</td></tr>\n<tr class='hover:bg-[#112240]/40 transition-colors'><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 font-semibold text-white'>Financial Threshold</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Full delegated tier limit</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>50% of delegated tier limit</td></tr>\n<tr class='hover:bg-[#112240]/40 transition-colors'><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 font-semibold text-white'>IFA Concurrence</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Above without-IFA limit</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Mandatory for all PAC cases</td></tr>\n</tbody>\n        </table>\n      </div>\n      <div class='mt-3 text-xs font-mono text-[#FFD700]'>STATUTORY PRECEDENCE: DFPDS-2026 provisions prevail over general procurement provisions.</div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 04 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>"
+    ],
+    "verification_report": {
+      "all_claims_verified": true,
+      "lowest_nli_score": 0.96,
+      "claims_count": 8,
+      "verified_claims_count": 8
+    },
+    "generated_at": "2026-09-01T11:49:20.586494+00:00"
+  },
+  "autodeck_sch18_propulsion": {
+    "deck_id": "deck_dfpds_sch18_c33ad571",
+    "title": "DFPDS-2026 Schedule 18: Schedule 18: Special Infrastructure, Hardened Munitions Bunkers, and Security Fencing",
+    "topic": "Emergency Propulsion Spares Repair under Schedule 18",
+    "context": "Critical underway maintenance sanction for Guided Missile Frigate (FOCWF).",
+    "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+    "dtg": "011149Z SEP 2026",
+    "ast": {
+      "deck_id": "deck_dfpds_sch18_c33ad571",
+      "title": "DFPDS-2026 Schedule 18: Schedule 18: Special Infrastructure, Hardened Munitions Bunkers, and Security Fencing",
+      "topic": "Emergency Propulsion Spares Repair under Schedule 18",
+      "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+      "dtg": "011149Z SEP 2026",
+      "slides": [
+        {
+          "slide_id": "slide_01",
+          "type": "HERO_SLIDE",
+          "title": "EXECUTIVE BRIEFING: FINANCIAL DELEGATION",
+          "content": {
+            "title": "DFPDS-2026 SCHEDULE 18",
+            "subtitle": "SCHEDULE 18: SPECIAL INFRASTRUCTURE, HARDENED MUNITIONS BUNKERS, AND SECURITY...",
+            "dtg": "011149Z SEP 2026",
+            "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+            "officer": "NAVAL FINANCIAL COMPLIANCE DESK",
+            "unit": "INTEGRATED HQ MOD (NAVY)"
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/Schedule_18"
+        },
+        {
+          "slide_id": "slide_02",
+          "type": "BLUF_EXECUTIVE",
+          "title": "EXECUTIVE SUMMARY (BLUF)",
+          "content": {
+            "bluf_headline": "Delegation limits under DFPDS-2026 Schedule 18 (Schedule 18: Special Infrastructure, Hardened Munitions Bunkers, and Security...)",
+            "key_takeaways": [
+              "CNS (Tier 1) sanction authority: ₹160.00 Cr (with IFA) / ₹16.00 Cr (without IFA).",
+              "Fleet Commander (Tier 3) authority: ₹24.00 Cr (with IFA) / ₹2.40 Cr (without IFA).",
+              "Mandatory IFA concurrence required for all sanctions exceeding without-IFA thresholds."
+            ],
+            "decision_requested": "Exercise sanction powers strictly within CFA delegated financial thresholds.",
+            "risk_summary": "Sanctions exceeding delegated thresholds without IFA concurrence constitute audit violations.",
+            "urgency": "PRIORITY"
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/Schedule_18"
+        },
+        {
+          "slide_id": "slide_03",
+          "type": "FINANCIAL_DELEGATION",
+          "title": "COMPETENT FINANCIAL AUTHORITY LIMITS",
+          "content": {
+            "schedule_title": "Schedule 18: Schedule 18: Special Infrastructure, Hardened Munitions Bunkers, and Security...",
+            "schedule_no": 18,
+            "head_of_account": "Major Head 2077 - Navy (Revenue / Capital)",
+            "tiers": [
+              {
+                "tier": "Tier 1",
+                "tier_name": "Chief of the Naval Staff (CNS)",
+                "with_ifa_limit": 160.0,
+                "without_ifa_limit": 16.0,
+                "pac_limit": 80.0,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 2",
+                "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+                "with_ifa_limit": 80.0,
+                "without_ifa_limit": 8.0,
+                "pac_limit": 40.0,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 3",
+                "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+                "with_ifa_limit": 24.0,
+                "without_ifa_limit": 2.4,
+                "pac_limit": 12.0,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 4",
+                "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+                "with_ifa_limit": 8.0,
+                "without_ifa_limit": 0.8,
+                "pac_limit": 4.0,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 5",
+                "tier_name": "Commanding Officer (CO) — Capital Ship (Carrier / Destroyer / Frigate)",
+                "with_ifa_limit": 3.2,
+                "without_ifa_limit": 0.64,
+                "pac_limit": 1.6,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 6",
+                "tier_name": "Commanding Officer (CO) — Minor War Vessel / Shore Base",
+                "with_ifa_limit": 0.8,
+                "without_ifa_limit": 0.2,
+                "pac_limit": 0.4,
+                "unit_str": "₹ Crore"
+              }
+            ],
+            "indigenisation_percentage": 60.0,
+            "notes": "PAC / Single Tender procurement subject to specific justification certificates."
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/Schedule_18"
+        },
+        {
+          "slide_id": "slide_04",
+          "type": "POLICY_MATRIX",
+          "title": "TENDERING & CONCURRENCE POLICY MATRIX",
+          "content": {
+            "matrix_title": "Procurement Mode & Concurrence Rules",
+            "headers": [
+              "Parameter",
+              "Open Tender Enquiry (OTE)",
+              "Single Tender / PAC (STE)"
+            ],
+            "rows": [
+              {
+                "row_title": "Competition Requirement",
+                "cells": [
+                  "Minimum 3 competitive bids",
+                  "PAC Certificate mandatory"
+                ]
+              },
+              {
+                "row_title": "Financial Threshold",
+                "cells": [
+                  "Full delegated tier limit",
+                  "50% of delegated tier limit"
+                ]
+              },
+              {
+                "row_title": "IFA Concurrence",
+                "cells": [
+                  "Above without-IFA limit",
+                  "Mandatory for all PAC cases"
+                ]
+              }
+            ],
+            "statutory_precedence_note": "DFPDS-2026 provisions prevail over general procurement provisions."
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/General_Financial_Rules"
+        }
+      ],
+      "total_slides": 4,
+      "generation_time_ms": 5
+    },
+    "html_slides": [
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_01'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='bg-[#112240] border border-[#00E5FF]/40 rounded-xl p-8 max-w-4xl mx-auto text-center shadow-lg'>\n      <div class='text-xs font-mono text-[#00E5FF] font-bold tracking-wider mb-2'>INDIAN NAVAL STAFF BRIEFING</div>\n      <h1 class='text-3xl md:text-4xl font-extrabold text-white tracking-wide uppercase font-serif'>DFPDS-2026 SCHEDULE 18</h1>\n      <h2 class='text-xl text-[#FFD700] font-medium mt-2'>SCHEDULE 18: SPECIAL INFRASTRUCTURE, HARDENED MUNITIONS BUNKERS, AND SECURITY...</h2>\n      <div class='mt-6 pt-6 border-t border-[#233554] flex justify-around text-xs text-slate-300 font-mono'>\n        <div><span class='text-slate-400'>PRESENTER:</span> <strong class='text-white'>NAVAL FINANCIAL COMPLIANCE DESK</strong></div>\n        <div><span class='text-slate-400'>COMMAND:</span> <strong class='text-white'>INTEGRATED HQ MOD (NAVY)</strong></div>\n      </div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 01 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>",
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_02'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='w-full'>\n      <h2 class='text-xl font-bold text-white mb-4 tracking-wide border-l-4 border-[#00E5FF] pl-3'>EXECUTIVE SUMMARY (BLUF)</h2>\n      <div class='grid grid-cols-1 md:grid-cols-12 gap-6'>\n        <!-- Left Column: BLUF & Takeaways -->\n        <div class='md:col-span-7 bg-[#112240] p-5 rounded-lg border border-[#233554]'>\n          <div class='text-xs font-mono font-bold text-[#FFD700] uppercase mb-1'>BOTTOM LINE UP FRONT</div>\n          <p class='text-base font-semibold text-white mb-4'>Delegation limits under DFPDS-2026 Schedule 18 (Schedule 18: Special Infrastructure, Hardened Munitions Bunkers, and Security...)</p>\n          <div class='text-xs font-mono font-bold text-[#00E5FF] uppercase mb-2'>KEY FINDINGS & TAKEAWAYS</div>\n          <ul class='space-y-2'>\n          <li class='text-sm text-slate-200 leading-relaxed'>• CNS (Tier 1) sanction authority: ₹160.00 Cr (with IFA) / ₹16.00 Cr (without IFA).</li>\n          <li class='text-sm text-slate-200 leading-relaxed'>• Fleet Commander (Tier 3) authority: ₹24.00 Cr (with IFA) / ₹2.40 Cr (without IFA).</li>\n          <li class='text-sm text-slate-200 leading-relaxed'>• Mandatory IFA concurrence required for all sanctions exceeding without-IFA thresholds.</li>\n          </ul>\n        </div>\n        <!-- Right Column: Decision & Risk -->\n        <div class='md:col-span-5 bg-[#112240] p-5 rounded-lg border border-[#233554] flex flex-col justify-between'>\n          <div>\n            <div class='flex justify-between items-center mb-2'>\n              <span class='text-xs font-mono text-slate-400'>URGENCY</span>\n              <span class='text-xs font-mono font-bold px-2 py-0.5 rounded bg-cyan-950 text-[#00E5FF] border border-[#00E5FF]/30'>PRIORITY</span>\n            </div>\n            <div class='text-xs font-mono font-bold text-[#FFD700] uppercase mt-2'>DECISION REQUESTED</div>\n            <p class='text-sm font-medium text-white mt-1'>Exercise sanction powers strictly within CFA delegated financial thresholds.</p>\n            <div class='mt-4'><span class='text-xs font-bold font-mono text-red-400 uppercase'>OPERATIONAL RISK:</span><p class='text-sm text-slate-300 mt-1'>Sanctions exceeding delegated thresholds without IFA concurrence constitute audit violations.</p></div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 02 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>",
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_03'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='w-full'>\n      <h2 class='text-xl font-bold text-white mb-3 tracking-wide border-l-4 border-[#00E5FF] pl-3'>COMPETENT FINANCIAL AUTHORITY LIMITS</h2>\n      <div class='overflow-x-auto rounded-lg border border-[#233554] bg-[#0A192F]'>\n        <table class='w-full border-collapse'>\n          <thead>\n            <tr class='bg-[#112240] text-left text-xs font-mono font-bold text-slate-300 border-b border-[#233554]'>\n              <th class='p-2 text-[#00E5FF]'>TIER</th>\n              <th class='p-2'>COMPETENT FINANCIAL AUTHORITY</th>\n              <th class='p-2 text-right text-[#FFD700]'>WITH IFA</th>\n              <th class='p-2 text-right'>WITHOUT IFA</th>\n              <th class='p-2 text-right'>PAC LIMIT</th>\n            </tr>\n          </thead>\n          <tbody>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 1</td>\n  <td class='p-2 text-xs text-white font-medium'>Chief of the Naval Staff (CNS)</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹160.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹16.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹80.00 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 2</td>\n  <td class='p-2 text-xs text-white font-medium'>Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹80.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹8.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹40.00 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 3</td>\n  <td class='p-2 text-xs text-white font-medium'>Fleet Commander / ASD (Naval Dockyard) / FOMA</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹24.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹2.40 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹12.00 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 4</td>\n  <td class='p-2 text-xs text-white font-medium'>Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹8.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹0.80 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹4.00 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 5</td>\n  <td class='p-2 text-xs text-white font-medium'>Commanding Officer (CO) — Capital Ship (Carrier / Destroyer / Frigate)</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹3.20 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹0.64 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹1.60 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 6</td>\n  <td class='p-2 text-xs text-white font-medium'>Commanding Officer (CO) — Minor War Vessel / Shore Base</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹0.80 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹0.20 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹0.40 Cr</td>\n</tr>\n</tbody>\n        </table>\n      </div>\n      <div class='mt-3 text-xs font-mono text-slate-400'>STATUTORY PROVISO: PAC / Single Tender procurement subject to specific justification certificates.</div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 03 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>",
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_04'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='w-full'>\n      <h2 class='text-xl font-bold text-white mb-3 tracking-wide border-l-4 border-[#00E5FF] pl-3'>TENDERING &amp; CONCURRENCE POLICY MATRIX</h2>\n      <div class='overflow-x-auto rounded-lg border border-[#233554] bg-[#0A192F]'>\n        <table class='w-full border-collapse'>\n          <thead><tr><th class='p-2.5 text-left text-xs font-mono font-bold text-[#00E5FF] bg-[#112240] border-b border-[#233554]'>Parameter</th><th class='p-2.5 text-left text-xs font-mono font-bold text-[#00E5FF] bg-[#112240] border-b border-[#233554]'>Open Tender Enquiry (OTE)</th><th class='p-2.5 text-left text-xs font-mono font-bold text-[#00E5FF] bg-[#112240] border-b border-[#233554]'>Single Tender / PAC (STE)</th></tr></thead>\n          <tbody>\n<tr class='hover:bg-[#112240]/40 transition-colors'><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 font-semibold text-white'>Competition Requirement</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Minimum 3 competitive bids</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>PAC Certificate mandatory</td></tr>\n<tr class='hover:bg-[#112240]/40 transition-colors'><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 font-semibold text-white'>Financial Threshold</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Full delegated tier limit</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>50% of delegated tier limit</td></tr>\n<tr class='hover:bg-[#112240]/40 transition-colors'><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 font-semibold text-white'>IFA Concurrence</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Above without-IFA limit</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Mandatory for all PAC cases</td></tr>\n</tbody>\n        </table>\n      </div>\n      <div class='mt-3 text-xs font-mono text-[#FFD700]'>STATUTORY PRECEDENCE: DFPDS-2026 provisions prevail over general procurement provisions.</div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 04 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>"
+    ],
+    "verification_report": {
+      "all_claims_verified": true,
+      "lowest_nli_score": 0.94,
+      "claims_count": 7,
+      "verified_claims_count": 7
+    },
+    "generated_at": "2026-09-01T11:49:20.587595+00:00"
+  },
+  "autodeck_sch02_drydock": {
+    "deck_id": "deck_dfpds_sch02_200ec48a",
+    "title": "DFPDS-2026 Schedule 2: Schedule 02: Naval Aviation Spares, Airframe Overhaul, and Avionics Systems",
+    "topic": "Drydock Refit Sanction for Destroyer Class under Schedule 2",
+    "context": "Medium refit and weapon upgrade package for Eastern Naval Command Destroyer.",
+    "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+    "dtg": "011149Z SEP 2026",
+    "ast": {
+      "deck_id": "deck_dfpds_sch02_200ec48a",
+      "title": "DFPDS-2026 Schedule 2: Schedule 02: Naval Aviation Spares, Airframe Overhaul, and Avionics Systems",
+      "topic": "Drydock Refit Sanction for Destroyer Class under Schedule 2",
+      "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+      "dtg": "011149Z SEP 2026",
+      "slides": [
+        {
+          "slide_id": "slide_01",
+          "type": "HERO_SLIDE",
+          "title": "EXECUTIVE BRIEFING: FINANCIAL DELEGATION",
+          "content": {
+            "title": "DFPDS-2026 SCHEDULE 02",
+            "subtitle": "SCHEDULE 02: NAVAL AVIATION SPARES, AIRFRAME OVERHAUL, AND AVIONICS SYSTEMS",
+            "dtg": "011149Z SEP 2026",
+            "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+            "officer": "NAVAL FINANCIAL COMPLIANCE DESK",
+            "unit": "INTEGRATED HQ MOD (NAVY)"
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/Schedule_02"
+        },
+        {
+          "slide_id": "slide_02",
+          "type": "BLUF_EXECUTIVE",
+          "title": "EXECUTIVE SUMMARY (BLUF)",
+          "content": {
+            "bluf_headline": "Delegation limits under DFPDS-2026 Schedule 2 (Schedule 02: Naval Aviation Spares, Airframe Overhaul, and Avionics Systems)",
+            "key_takeaways": [
+              "CNS (Tier 1) sanction authority: ₹140.00 Cr (with IFA) / ₹14.00 Cr (without IFA).",
+              "Fleet Commander (Tier 3) authority: ₹21.00 Cr (with IFA) / ₹2.10 Cr (without IFA).",
+              "Mandatory IFA concurrence required for all sanctions exceeding without-IFA thresholds."
+            ],
+            "decision_requested": "Exercise sanction powers strictly within CFA delegated financial thresholds.",
+            "risk_summary": "Sanctions exceeding delegated thresholds without IFA concurrence constitute audit violations.",
+            "urgency": "PRIORITY"
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/Schedule_02"
+        },
+        {
+          "slide_id": "slide_03",
+          "type": "FINANCIAL_DELEGATION",
+          "title": "COMPETENT FINANCIAL AUTHORITY LIMITS",
+          "content": {
+            "schedule_title": "Schedule 2: Schedule 02: Naval Aviation Spares, Airframe Overhaul, and Avionics Systems",
+            "schedule_no": 2,
+            "head_of_account": "Major Head 2077 - Navy (Revenue / Capital)",
+            "tiers": [
+              {
+                "tier": "Tier 1",
+                "tier_name": "Chief of the Naval Staff (CNS)",
+                "with_ifa_limit": 140.0,
+                "without_ifa_limit": 14.0,
+                "pac_limit": 70.0,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 2",
+                "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+                "with_ifa_limit": 70.0,
+                "without_ifa_limit": 7.0,
+                "pac_limit": 35.0,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 3",
+                "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+                "with_ifa_limit": 21.0,
+                "without_ifa_limit": 2.1,
+                "pac_limit": 10.5,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 4",
+                "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+                "with_ifa_limit": 7.0,
+                "without_ifa_limit": 0.7,
+                "pac_limit": 3.5,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 5",
+                "tier_name": "Commanding Officer (CO) — Capital Ship (Carrier / Destroyer / Frigate)",
+                "with_ifa_limit": 2.8,
+                "without_ifa_limit": 0.56,
+                "pac_limit": 1.4,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 6",
+                "tier_name": "Commanding Officer (CO) — Minor War Vessel / Shore Base",
+                "with_ifa_limit": 0.7,
+                "without_ifa_limit": 0.17,
+                "pac_limit": 0.35,
+                "unit_str": "₹ Crore"
+              }
+            ],
+            "indigenisation_percentage": 60.0,
+            "notes": "PAC / Single Tender procurement subject to specific justification certificates."
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/Schedule_02"
+        },
+        {
+          "slide_id": "slide_04",
+          "type": "POLICY_MATRIX",
+          "title": "TENDERING & CONCURRENCE POLICY MATRIX",
+          "content": {
+            "matrix_title": "Procurement Mode & Concurrence Rules",
+            "headers": [
+              "Parameter",
+              "Open Tender Enquiry (OTE)",
+              "Single Tender / PAC (STE)"
+            ],
+            "rows": [
+              {
+                "row_title": "Competition Requirement",
+                "cells": [
+                  "Minimum 3 competitive bids",
+                  "PAC Certificate mandatory"
+                ]
+              },
+              {
+                "row_title": "Financial Threshold",
+                "cells": [
+                  "Full delegated tier limit",
+                  "50% of delegated tier limit"
+                ]
+              },
+              {
+                "row_title": "IFA Concurrence",
+                "cells": [
+                  "Above without-IFA limit",
+                  "Mandatory for all PAC cases"
+                ]
+              }
+            ],
+            "statutory_precedence_note": "DFPDS-2026 provisions prevail over general procurement provisions."
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/General_Financial_Rules"
+        }
+      ],
+      "total_slides": 4,
+      "generation_time_ms": 5
+    },
+    "html_slides": [
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_01'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='bg-[#112240] border border-[#00E5FF]/40 rounded-xl p-8 max-w-4xl mx-auto text-center shadow-lg'>\n      <div class='text-xs font-mono text-[#00E5FF] font-bold tracking-wider mb-2'>INDIAN NAVAL STAFF BRIEFING</div>\n      <h1 class='text-3xl md:text-4xl font-extrabold text-white tracking-wide uppercase font-serif'>DFPDS-2026 SCHEDULE 02</h1>\n      <h2 class='text-xl text-[#FFD700] font-medium mt-2'>SCHEDULE 02: NAVAL AVIATION SPARES, AIRFRAME OVERHAUL, AND AVIONICS SYSTEMS</h2>\n      <div class='mt-6 pt-6 border-t border-[#233554] flex justify-around text-xs text-slate-300 font-mono'>\n        <div><span class='text-slate-400'>PRESENTER:</span> <strong class='text-white'>NAVAL FINANCIAL COMPLIANCE DESK</strong></div>\n        <div><span class='text-slate-400'>COMMAND:</span> <strong class='text-white'>INTEGRATED HQ MOD (NAVY)</strong></div>\n      </div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 01 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>",
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_02'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='w-full'>\n      <h2 class='text-xl font-bold text-white mb-4 tracking-wide border-l-4 border-[#00E5FF] pl-3'>EXECUTIVE SUMMARY (BLUF)</h2>\n      <div class='grid grid-cols-1 md:grid-cols-12 gap-6'>\n        <!-- Left Column: BLUF & Takeaways -->\n        <div class='md:col-span-7 bg-[#112240] p-5 rounded-lg border border-[#233554]'>\n          <div class='text-xs font-mono font-bold text-[#FFD700] uppercase mb-1'>BOTTOM LINE UP FRONT</div>\n          <p class='text-base font-semibold text-white mb-4'>Delegation limits under DFPDS-2026 Schedule 2 (Schedule 02: Naval Aviation Spares, Airframe Overhaul, and Avionics Systems)</p>\n          <div class='text-xs font-mono font-bold text-[#00E5FF] uppercase mb-2'>KEY FINDINGS & TAKEAWAYS</div>\n          <ul class='space-y-2'>\n          <li class='text-sm text-slate-200 leading-relaxed'>• CNS (Tier 1) sanction authority: ₹140.00 Cr (with IFA) / ₹14.00 Cr (without IFA).</li>\n          <li class='text-sm text-slate-200 leading-relaxed'>• Fleet Commander (Tier 3) authority: ₹21.00 Cr (with IFA) / ₹2.10 Cr (without IFA).</li>\n          <li class='text-sm text-slate-200 leading-relaxed'>• Mandatory IFA concurrence required for all sanctions exceeding without-IFA thresholds.</li>\n          </ul>\n        </div>\n        <!-- Right Column: Decision & Risk -->\n        <div class='md:col-span-5 bg-[#112240] p-5 rounded-lg border border-[#233554] flex flex-col justify-between'>\n          <div>\n            <div class='flex justify-between items-center mb-2'>\n              <span class='text-xs font-mono text-slate-400'>URGENCY</span>\n              <span class='text-xs font-mono font-bold px-2 py-0.5 rounded bg-cyan-950 text-[#00E5FF] border border-[#00E5FF]/30'>PRIORITY</span>\n            </div>\n            <div class='text-xs font-mono font-bold text-[#FFD700] uppercase mt-2'>DECISION REQUESTED</div>\n            <p class='text-sm font-medium text-white mt-1'>Exercise sanction powers strictly within CFA delegated financial thresholds.</p>\n            <div class='mt-4'><span class='text-xs font-bold font-mono text-red-400 uppercase'>OPERATIONAL RISK:</span><p class='text-sm text-slate-300 mt-1'>Sanctions exceeding delegated thresholds without IFA concurrence constitute audit violations.</p></div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 02 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>",
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_03'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='w-full'>\n      <h2 class='text-xl font-bold text-white mb-3 tracking-wide border-l-4 border-[#00E5FF] pl-3'>COMPETENT FINANCIAL AUTHORITY LIMITS</h2>\n      <div class='overflow-x-auto rounded-lg border border-[#233554] bg-[#0A192F]'>\n        <table class='w-full border-collapse'>\n          <thead>\n            <tr class='bg-[#112240] text-left text-xs font-mono font-bold text-slate-300 border-b border-[#233554]'>\n              <th class='p-2 text-[#00E5FF]'>TIER</th>\n              <th class='p-2'>COMPETENT FINANCIAL AUTHORITY</th>\n              <th class='p-2 text-right text-[#FFD700]'>WITH IFA</th>\n              <th class='p-2 text-right'>WITHOUT IFA</th>\n              <th class='p-2 text-right'>PAC LIMIT</th>\n            </tr>\n          </thead>\n          <tbody>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 1</td>\n  <td class='p-2 text-xs text-white font-medium'>Chief of the Naval Staff (CNS)</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹140.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹14.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹70.00 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 2</td>\n  <td class='p-2 text-xs text-white font-medium'>Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹70.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹7.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹35.00 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 3</td>\n  <td class='p-2 text-xs text-white font-medium'>Fleet Commander / ASD (Naval Dockyard) / FOMA</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹21.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹2.10 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹10.50 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 4</td>\n  <td class='p-2 text-xs text-white font-medium'>Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹7.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹0.70 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹3.50 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 5</td>\n  <td class='p-2 text-xs text-white font-medium'>Commanding Officer (CO) — Capital Ship (Carrier / Destroyer / Frigate)</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹2.80 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹0.56 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹1.40 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 6</td>\n  <td class='p-2 text-xs text-white font-medium'>Commanding Officer (CO) — Minor War Vessel / Shore Base</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹0.70 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹0.17 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹0.35 Cr</td>\n</tr>\n</tbody>\n        </table>\n      </div>\n      <div class='mt-3 text-xs font-mono text-slate-400'>STATUTORY PROVISO: PAC / Single Tender procurement subject to specific justification certificates.</div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 03 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>",
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_04'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='w-full'>\n      <h2 class='text-xl font-bold text-white mb-3 tracking-wide border-l-4 border-[#00E5FF] pl-3'>TENDERING &amp; CONCURRENCE POLICY MATRIX</h2>\n      <div class='overflow-x-auto rounded-lg border border-[#233554] bg-[#0A192F]'>\n        <table class='w-full border-collapse'>\n          <thead><tr><th class='p-2.5 text-left text-xs font-mono font-bold text-[#00E5FF] bg-[#112240] border-b border-[#233554]'>Parameter</th><th class='p-2.5 text-left text-xs font-mono font-bold text-[#00E5FF] bg-[#112240] border-b border-[#233554]'>Open Tender Enquiry (OTE)</th><th class='p-2.5 text-left text-xs font-mono font-bold text-[#00E5FF] bg-[#112240] border-b border-[#233554]'>Single Tender / PAC (STE)</th></tr></thead>\n          <tbody>\n<tr class='hover:bg-[#112240]/40 transition-colors'><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 font-semibold text-white'>Competition Requirement</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Minimum 3 competitive bids</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>PAC Certificate mandatory</td></tr>\n<tr class='hover:bg-[#112240]/40 transition-colors'><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 font-semibold text-white'>Financial Threshold</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Full delegated tier limit</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>50% of delegated tier limit</td></tr>\n<tr class='hover:bg-[#112240]/40 transition-colors'><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 font-semibold text-white'>IFA Concurrence</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Above without-IFA limit</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Mandatory for all PAC cases</td></tr>\n</tbody>\n        </table>\n      </div>\n      <div class='mt-3 text-xs font-mono text-[#FFD700]'>STATUTORY PRECEDENCE: DFPDS-2026 provisions prevail over general procurement provisions.</div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 04 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>"
+    ],
+    "verification_report": {
+      "all_claims_verified": true,
+      "lowest_nli_score": 0.98,
+      "claims_count": 9,
+      "verified_claims_count": 9
+    },
+    "generated_at": "2026-09-01T11:49:20.587595+00:00"
+  },
+  "autodeck_sch11_sonar": {
+    "deck_id": "deck_dfpds_sch11_4bdde40b",
+    "title": "DFPDS-2026 Schedule 11: Schedule 11: Missile Maintenance, Torpedo Overhaul, and Fire Control Calibration",
+    "topic": "Indigenized Sonar Spares Procurement under Schedule 11",
+    "context": "Naval Dockyard Mumbai indigenization requirement under Make in India guidelines.",
+    "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+    "dtg": "011149Z SEP 2026",
+    "ast": {
+      "deck_id": "deck_dfpds_sch11_4bdde40b",
+      "title": "DFPDS-2026 Schedule 11: Schedule 11: Missile Maintenance, Torpedo Overhaul, and Fire Control Calibration",
+      "topic": "Indigenized Sonar Spares Procurement under Schedule 11",
+      "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+      "dtg": "011149Z SEP 2026",
+      "slides": [
+        {
+          "slide_id": "slide_01",
+          "type": "HERO_SLIDE",
+          "title": "EXECUTIVE BRIEFING: FINANCIAL DELEGATION",
+          "content": {
+            "title": "DFPDS-2026 SCHEDULE 11",
+            "subtitle": "SCHEDULE 11: MISSILE MAINTENANCE, TORPEDO OVERHAUL, AND FIRE CONTROL CALIBRATION",
+            "dtg": "011149Z SEP 2026",
+            "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+            "officer": "NAVAL FINANCIAL COMPLIANCE DESK",
+            "unit": "INTEGRATED HQ MOD (NAVY)"
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/Schedule_11"
+        },
+        {
+          "slide_id": "slide_02",
+          "type": "BLUF_EXECUTIVE",
+          "title": "EXECUTIVE SUMMARY (BLUF)",
+          "content": {
+            "bluf_headline": "Delegation limits under DFPDS-2026 Schedule 11 (Schedule 11: Missile Maintenance, Torpedo Overhaul, and Fire Control Calibration)",
+            "key_takeaways": [
+              "CNS (Tier 1) sanction authority: ₹120.00 Cr (with IFA) / ₹12.00 Cr (without IFA).",
+              "Fleet Commander (Tier 3) authority: ₹18.00 Cr (with IFA) / ₹1.80 Cr (without IFA).",
+              "Mandatory IFA concurrence required for all sanctions exceeding without-IFA thresholds."
+            ],
+            "decision_requested": "Exercise sanction powers strictly within CFA delegated financial thresholds.",
+            "risk_summary": "Sanctions exceeding delegated thresholds without IFA concurrence constitute audit violations.",
+            "urgency": "PRIORITY"
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/Schedule_11"
+        },
+        {
+          "slide_id": "slide_03",
+          "type": "FINANCIAL_DELEGATION",
+          "title": "COMPETENT FINANCIAL AUTHORITY LIMITS",
+          "content": {
+            "schedule_title": "Schedule 11: Schedule 11: Missile Maintenance, Torpedo Overhaul, and Fire Control Calibration",
+            "schedule_no": 11,
+            "head_of_account": "Major Head 2077 - Navy (Revenue / Capital)",
+            "tiers": [
+              {
+                "tier": "Tier 1",
+                "tier_name": "Chief of the Naval Staff (CNS)",
+                "with_ifa_limit": 120.0,
+                "without_ifa_limit": 12.0,
+                "pac_limit": 60.0,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 2",
+                "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+                "with_ifa_limit": 60.0,
+                "without_ifa_limit": 6.0,
+                "pac_limit": 30.0,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 3",
+                "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+                "with_ifa_limit": 18.0,
+                "without_ifa_limit": 1.8,
+                "pac_limit": 9.0,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 4",
+                "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+                "with_ifa_limit": 6.0,
+                "without_ifa_limit": 0.6,
+                "pac_limit": 3.0,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 5",
+                "tier_name": "Commanding Officer (CO) — Capital Ship (Carrier / Destroyer / Frigate)",
+                "with_ifa_limit": 2.4,
+                "without_ifa_limit": 0.48,
+                "pac_limit": 1.2,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 6",
+                "tier_name": "Commanding Officer (CO) — Minor War Vessel / Shore Base",
+                "with_ifa_limit": 0.6,
+                "without_ifa_limit": 0.15,
+                "pac_limit": 0.3,
+                "unit_str": "₹ Crore"
+              }
+            ],
+            "indigenisation_percentage": 60.0,
+            "notes": "PAC / Single Tender procurement subject to specific justification certificates."
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/Schedule_11"
+        },
+        {
+          "slide_id": "slide_04",
+          "type": "POLICY_MATRIX",
+          "title": "TENDERING & CONCURRENCE POLICY MATRIX",
+          "content": {
+            "matrix_title": "Procurement Mode & Concurrence Rules",
+            "headers": [
+              "Parameter",
+              "Open Tender Enquiry (OTE)",
+              "Single Tender / PAC (STE)"
+            ],
+            "rows": [
+              {
+                "row_title": "Competition Requirement",
+                "cells": [
+                  "Minimum 3 competitive bids",
+                  "PAC Certificate mandatory"
+                ]
+              },
+              {
+                "row_title": "Financial Threshold",
+                "cells": [
+                  "Full delegated tier limit",
+                  "50% of delegated tier limit"
+                ]
+              },
+              {
+                "row_title": "IFA Concurrence",
+                "cells": [
+                  "Above without-IFA limit",
+                  "Mandatory for all PAC cases"
+                ]
+              }
+            ],
+            "statutory_precedence_note": "DFPDS-2026 provisions prevail over general procurement provisions."
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/General_Financial_Rules"
+        }
+      ],
+      "total_slides": 4,
+      "generation_time_ms": 5
+    },
+    "html_slides": [
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_01'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='bg-[#112240] border border-[#00E5FF]/40 rounded-xl p-8 max-w-4xl mx-auto text-center shadow-lg'>\n      <div class='text-xs font-mono text-[#00E5FF] font-bold tracking-wider mb-2'>INDIAN NAVAL STAFF BRIEFING</div>\n      <h1 class='text-3xl md:text-4xl font-extrabold text-white tracking-wide uppercase font-serif'>DFPDS-2026 SCHEDULE 11</h1>\n      <h2 class='text-xl text-[#FFD700] font-medium mt-2'>SCHEDULE 11: MISSILE MAINTENANCE, TORPEDO OVERHAUL, AND FIRE CONTROL CALIBRATION</h2>\n      <div class='mt-6 pt-6 border-t border-[#233554] flex justify-around text-xs text-slate-300 font-mono'>\n        <div><span class='text-slate-400'>PRESENTER:</span> <strong class='text-white'>NAVAL FINANCIAL COMPLIANCE DESK</strong></div>\n        <div><span class='text-slate-400'>COMMAND:</span> <strong class='text-white'>INTEGRATED HQ MOD (NAVY)</strong></div>\n      </div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 01 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>",
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_02'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='w-full'>\n      <h2 class='text-xl font-bold text-white mb-4 tracking-wide border-l-4 border-[#00E5FF] pl-3'>EXECUTIVE SUMMARY (BLUF)</h2>\n      <div class='grid grid-cols-1 md:grid-cols-12 gap-6'>\n        <!-- Left Column: BLUF & Takeaways -->\n        <div class='md:col-span-7 bg-[#112240] p-5 rounded-lg border border-[#233554]'>\n          <div class='text-xs font-mono font-bold text-[#FFD700] uppercase mb-1'>BOTTOM LINE UP FRONT</div>\n          <p class='text-base font-semibold text-white mb-4'>Delegation limits under DFPDS-2026 Schedule 11 (Schedule 11: Missile Maintenance, Torpedo Overhaul, and Fire Control Calibration)</p>\n          <div class='text-xs font-mono font-bold text-[#00E5FF] uppercase mb-2'>KEY FINDINGS & TAKEAWAYS</div>\n          <ul class='space-y-2'>\n          <li class='text-sm text-slate-200 leading-relaxed'>• CNS (Tier 1) sanction authority: ₹120.00 Cr (with IFA) / ₹12.00 Cr (without IFA).</li>\n          <li class='text-sm text-slate-200 leading-relaxed'>• Fleet Commander (Tier 3) authority: ₹18.00 Cr (with IFA) / ₹1.80 Cr (without IFA).</li>\n          <li class='text-sm text-slate-200 leading-relaxed'>• Mandatory IFA concurrence required for all sanctions exceeding without-IFA thresholds.</li>\n          </ul>\n        </div>\n        <!-- Right Column: Decision & Risk -->\n        <div class='md:col-span-5 bg-[#112240] p-5 rounded-lg border border-[#233554] flex flex-col justify-between'>\n          <div>\n            <div class='flex justify-between items-center mb-2'>\n              <span class='text-xs font-mono text-slate-400'>URGENCY</span>\n              <span class='text-xs font-mono font-bold px-2 py-0.5 rounded bg-cyan-950 text-[#00E5FF] border border-[#00E5FF]/30'>PRIORITY</span>\n            </div>\n            <div class='text-xs font-mono font-bold text-[#FFD700] uppercase mt-2'>DECISION REQUESTED</div>\n            <p class='text-sm font-medium text-white mt-1'>Exercise sanction powers strictly within CFA delegated financial thresholds.</p>\n            <div class='mt-4'><span class='text-xs font-bold font-mono text-red-400 uppercase'>OPERATIONAL RISK:</span><p class='text-sm text-slate-300 mt-1'>Sanctions exceeding delegated thresholds without IFA concurrence constitute audit violations.</p></div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 02 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>",
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_03'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='w-full'>\n      <h2 class='text-xl font-bold text-white mb-3 tracking-wide border-l-4 border-[#00E5FF] pl-3'>COMPETENT FINANCIAL AUTHORITY LIMITS</h2>\n      <div class='overflow-x-auto rounded-lg border border-[#233554] bg-[#0A192F]'>\n        <table class='w-full border-collapse'>\n          <thead>\n            <tr class='bg-[#112240] text-left text-xs font-mono font-bold text-slate-300 border-b border-[#233554]'>\n              <th class='p-2 text-[#00E5FF]'>TIER</th>\n              <th class='p-2'>COMPETENT FINANCIAL AUTHORITY</th>\n              <th class='p-2 text-right text-[#FFD700]'>WITH IFA</th>\n              <th class='p-2 text-right'>WITHOUT IFA</th>\n              <th class='p-2 text-right'>PAC LIMIT</th>\n            </tr>\n          </thead>\n          <tbody>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 1</td>\n  <td class='p-2 text-xs text-white font-medium'>Chief of the Naval Staff (CNS)</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹120.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹12.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹60.00 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 2</td>\n  <td class='p-2 text-xs text-white font-medium'>Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹60.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹6.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹30.00 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 3</td>\n  <td class='p-2 text-xs text-white font-medium'>Fleet Commander / ASD (Naval Dockyard) / FOMA</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹18.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹1.80 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹9.00 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 4</td>\n  <td class='p-2 text-xs text-white font-medium'>Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹6.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹0.60 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹3.00 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 5</td>\n  <td class='p-2 text-xs text-white font-medium'>Commanding Officer (CO) — Capital Ship (Carrier / Destroyer / Frigate)</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹2.40 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹0.48 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹1.20 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 6</td>\n  <td class='p-2 text-xs text-white font-medium'>Commanding Officer (CO) — Minor War Vessel / Shore Base</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹0.60 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹0.15 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹0.30 Cr</td>\n</tr>\n</tbody>\n        </table>\n      </div>\n      <div class='mt-3 text-xs font-mono text-slate-400'>STATUTORY PROVISO: PAC / Single Tender procurement subject to specific justification certificates.</div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 03 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>",
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_04'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='w-full'>\n      <h2 class='text-xl font-bold text-white mb-3 tracking-wide border-l-4 border-[#00E5FF] pl-3'>TENDERING &amp; CONCURRENCE POLICY MATRIX</h2>\n      <div class='overflow-x-auto rounded-lg border border-[#233554] bg-[#0A192F]'>\n        <table class='w-full border-collapse'>\n          <thead><tr><th class='p-2.5 text-left text-xs font-mono font-bold text-[#00E5FF] bg-[#112240] border-b border-[#233554]'>Parameter</th><th class='p-2.5 text-left text-xs font-mono font-bold text-[#00E5FF] bg-[#112240] border-b border-[#233554]'>Open Tender Enquiry (OTE)</th><th class='p-2.5 text-left text-xs font-mono font-bold text-[#00E5FF] bg-[#112240] border-b border-[#233554]'>Single Tender / PAC (STE)</th></tr></thead>\n          <tbody>\n<tr class='hover:bg-[#112240]/40 transition-colors'><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 font-semibold text-white'>Competition Requirement</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Minimum 3 competitive bids</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>PAC Certificate mandatory</td></tr>\n<tr class='hover:bg-[#112240]/40 transition-colors'><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 font-semibold text-white'>Financial Threshold</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Full delegated tier limit</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>50% of delegated tier limit</td></tr>\n<tr class='hover:bg-[#112240]/40 transition-colors'><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 font-semibold text-white'>IFA Concurrence</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Above without-IFA limit</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Mandatory for all PAC cases</td></tr>\n</tbody>\n        </table>\n      </div>\n      <div class='mt-3 text-xs font-mono text-[#FFD700]'>STATUTORY PRECEDENCE: DFPDS-2026 provisions prevail over general procurement provisions.</div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 04 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>"
+    ],
+    "verification_report": {
+      "all_claims_verified": true,
+      "lowest_nli_score": 0.95,
+      "claims_count": 6,
+      "verified_claims_count": 6
+    },
+    "generated_at": "2026-09-01T11:49:20.587595+00:00"
+  },
+  "autodeck_sch24_radar_ste": {
+    "deck_id": "deck_dfpds_sch24_6fab18b1",
+    "title": "DFPDS-2026 Schedule 24: Schedule 24: Naval Aviation Ground Support Equipment and Aircraft Refueling Units",
+    "topic": "Single Tender Enquiry (STE) Radar Upgrade under Schedule 24",
+    "context": "Proprietary OEM calibration and radar modernization for Southern Naval Command.",
+    "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+    "dtg": "011149Z SEP 2026",
+    "ast": {
+      "deck_id": "deck_dfpds_sch24_6fab18b1",
+      "title": "DFPDS-2026 Schedule 24: Schedule 24: Naval Aviation Ground Support Equipment and Aircraft Refueling Units",
+      "topic": "Single Tender Enquiry (STE) Radar Upgrade under Schedule 24",
+      "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+      "dtg": "011149Z SEP 2026",
+      "slides": [
+        {
+          "slide_id": "slide_01",
+          "type": "HERO_SLIDE",
+          "title": "EXECUTIVE BRIEFING: FINANCIAL DELEGATION",
+          "content": {
+            "title": "DFPDS-2026 SCHEDULE 24",
+            "subtitle": "SCHEDULE 24: NAVAL AVIATION GROUND SUPPORT EQUIPMENT AND AIRCRAFT REFUELING U...",
+            "dtg": "011149Z SEP 2026",
+            "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+            "officer": "NAVAL FINANCIAL COMPLIANCE DESK",
+            "unit": "INTEGRATED HQ MOD (NAVY)"
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/Schedule_24"
+        },
+        {
+          "slide_id": "slide_02",
+          "type": "BLUF_EXECUTIVE",
+          "title": "EXECUTIVE SUMMARY (BLUF)",
+          "content": {
+            "bluf_headline": "Delegation limits under DFPDS-2026 Schedule 24 (Schedule 24: Naval Aviation Ground Support Equipment and Aircraft Refueling U...)",
+            "key_takeaways": [
+              "CNS (Tier 1) sanction authority: ₹180.00 Cr (with IFA) / ₹18.00 Cr (without IFA).",
+              "Fleet Commander (Tier 3) authority: ₹27.00 Cr (with IFA) / ₹2.70 Cr (without IFA).",
+              "Mandatory IFA concurrence required for all sanctions exceeding without-IFA thresholds."
+            ],
+            "decision_requested": "Exercise sanction powers strictly within CFA delegated financial thresholds.",
+            "risk_summary": "Sanctions exceeding delegated thresholds without IFA concurrence constitute audit violations.",
+            "urgency": "PRIORITY"
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/Schedule_24"
+        },
+        {
+          "slide_id": "slide_03",
+          "type": "FINANCIAL_DELEGATION",
+          "title": "COMPETENT FINANCIAL AUTHORITY LIMITS",
+          "content": {
+            "schedule_title": "Schedule 24: Schedule 24: Naval Aviation Ground Support Equipment and Aircraft Refueling U...",
+            "schedule_no": 24,
+            "head_of_account": "Major Head 2077 - Navy (Revenue / Capital)",
+            "tiers": [
+              {
+                "tier": "Tier 1",
+                "tier_name": "Chief of the Naval Staff (CNS)",
+                "with_ifa_limit": 180.0,
+                "without_ifa_limit": 18.0,
+                "pac_limit": 90.0,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 2",
+                "tier_name": "Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS",
+                "with_ifa_limit": 90.0,
+                "without_ifa_limit": 9.0,
+                "pac_limit": 45.0,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 3",
+                "tier_name": "Fleet Commander / ASD (Naval Dockyard) / FOMA",
+                "with_ifa_limit": 27.0,
+                "without_ifa_limit": 2.7,
+                "pac_limit": 13.5,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 4",
+                "tier_name": "Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)",
+                "with_ifa_limit": 9.0,
+                "without_ifa_limit": 0.9,
+                "pac_limit": 4.5,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 5",
+                "tier_name": "Commanding Officer (CO) — Capital Ship (Carrier / Destroyer / Frigate)",
+                "with_ifa_limit": 3.6,
+                "without_ifa_limit": 0.72,
+                "pac_limit": 1.8,
+                "unit_str": "₹ Crore"
+              },
+              {
+                "tier": "Tier 6",
+                "tier_name": "Commanding Officer (CO) — Minor War Vessel / Shore Base",
+                "with_ifa_limit": 0.9,
+                "without_ifa_limit": 0.23,
+                "pac_limit": 0.45,
+                "unit_str": "₹ Crore"
+              }
+            ],
+            "indigenisation_percentage": 60.0,
+            "notes": "PAC / Single Tender procurement subject to specific justification certificates."
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/Schedule_24"
+        },
+        {
+          "slide_id": "slide_04",
+          "type": "POLICY_MATRIX",
+          "title": "TENDERING & CONCURRENCE POLICY MATRIX",
+          "content": {
+            "matrix_title": "Procurement Mode & Concurrence Rules",
+            "headers": [
+              "Parameter",
+              "Open Tender Enquiry (OTE)",
+              "Single Tender / PAC (STE)"
+            ],
+            "rows": [
+              {
+                "row_title": "Competition Requirement",
+                "cells": [
+                  "Minimum 3 competitive bids",
+                  "PAC Certificate mandatory"
+                ]
+              },
+              {
+                "row_title": "Financial Threshold",
+                "cells": [
+                  "Full delegated tier limit",
+                  "50% of delegated tier limit"
+                ]
+              },
+              {
+                "row_title": "IFA Concurrence",
+                "cells": [
+                  "Above without-IFA limit",
+                  "Mandatory for all PAC cases"
+                ]
+              }
+            ],
+            "statutory_precedence_note": "DFPDS-2026 provisions prevail over general procurement provisions."
+          },
+          "classification": "RESTRICTED // FOR OFFICIAL USE ONLY",
+          "is_verified": true,
+          "nli_score": 1.0,
+          "source_citation": "DFPDS-2026/General_Financial_Rules"
+        }
+      ],
+      "total_slides": 4,
+      "generation_time_ms": 5
+    },
+    "html_slides": [
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_01'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='bg-[#112240] border border-[#00E5FF]/40 rounded-xl p-8 max-w-4xl mx-auto text-center shadow-lg'>\n      <div class='text-xs font-mono text-[#00E5FF] font-bold tracking-wider mb-2'>INDIAN NAVAL STAFF BRIEFING</div>\n      <h1 class='text-3xl md:text-4xl font-extrabold text-white tracking-wide uppercase font-serif'>DFPDS-2026 SCHEDULE 24</h1>\n      <h2 class='text-xl text-[#FFD700] font-medium mt-2'>SCHEDULE 24: NAVAL AVIATION GROUND SUPPORT EQUIPMENT AND AIRCRAFT REFUELING U...</h2>\n      <div class='mt-6 pt-6 border-t border-[#233554] flex justify-around text-xs text-slate-300 font-mono'>\n        <div><span class='text-slate-400'>PRESENTER:</span> <strong class='text-white'>NAVAL FINANCIAL COMPLIANCE DESK</strong></div>\n        <div><span class='text-slate-400'>COMMAND:</span> <strong class='text-white'>INTEGRATED HQ MOD (NAVY)</strong></div>\n      </div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 01 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>",
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_02'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='w-full'>\n      <h2 class='text-xl font-bold text-white mb-4 tracking-wide border-l-4 border-[#00E5FF] pl-3'>EXECUTIVE SUMMARY (BLUF)</h2>\n      <div class='grid grid-cols-1 md:grid-cols-12 gap-6'>\n        <!-- Left Column: BLUF & Takeaways -->\n        <div class='md:col-span-7 bg-[#112240] p-5 rounded-lg border border-[#233554]'>\n          <div class='text-xs font-mono font-bold text-[#FFD700] uppercase mb-1'>BOTTOM LINE UP FRONT</div>\n          <p class='text-base font-semibold text-white mb-4'>Delegation limits under DFPDS-2026 Schedule 24 (Schedule 24: Naval Aviation Ground Support Equipment and Aircraft Refueling U...)</p>\n          <div class='text-xs font-mono font-bold text-[#00E5FF] uppercase mb-2'>KEY FINDINGS & TAKEAWAYS</div>\n          <ul class='space-y-2'>\n          <li class='text-sm text-slate-200 leading-relaxed'>• CNS (Tier 1) sanction authority: ₹180.00 Cr (with IFA) / ₹18.00 Cr (without IFA).</li>\n          <li class='text-sm text-slate-200 leading-relaxed'>• Fleet Commander (Tier 3) authority: ₹27.00 Cr (with IFA) / ₹2.70 Cr (without IFA).</li>\n          <li class='text-sm text-slate-200 leading-relaxed'>• Mandatory IFA concurrence required for all sanctions exceeding without-IFA thresholds.</li>\n          </ul>\n        </div>\n        <!-- Right Column: Decision & Risk -->\n        <div class='md:col-span-5 bg-[#112240] p-5 rounded-lg border border-[#233554] flex flex-col justify-between'>\n          <div>\n            <div class='flex justify-between items-center mb-2'>\n              <span class='text-xs font-mono text-slate-400'>URGENCY</span>\n              <span class='text-xs font-mono font-bold px-2 py-0.5 rounded bg-cyan-950 text-[#00E5FF] border border-[#00E5FF]/30'>PRIORITY</span>\n            </div>\n            <div class='text-xs font-mono font-bold text-[#FFD700] uppercase mt-2'>DECISION REQUESTED</div>\n            <p class='text-sm font-medium text-white mt-1'>Exercise sanction powers strictly within CFA delegated financial thresholds.</p>\n            <div class='mt-4'><span class='text-xs font-bold font-mono text-red-400 uppercase'>OPERATIONAL RISK:</span><p class='text-sm text-slate-300 mt-1'>Sanctions exceeding delegated thresholds without IFA concurrence constitute audit violations.</p></div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 02 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>",
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_03'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='w-full'>\n      <h2 class='text-xl font-bold text-white mb-3 tracking-wide border-l-4 border-[#00E5FF] pl-3'>COMPETENT FINANCIAL AUTHORITY LIMITS</h2>\n      <div class='overflow-x-auto rounded-lg border border-[#233554] bg-[#0A192F]'>\n        <table class='w-full border-collapse'>\n          <thead>\n            <tr class='bg-[#112240] text-left text-xs font-mono font-bold text-slate-300 border-b border-[#233554]'>\n              <th class='p-2 text-[#00E5FF]'>TIER</th>\n              <th class='p-2'>COMPETENT FINANCIAL AUTHORITY</th>\n              <th class='p-2 text-right text-[#FFD700]'>WITH IFA</th>\n              <th class='p-2 text-right'>WITHOUT IFA</th>\n              <th class='p-2 text-right'>PAC LIMIT</th>\n            </tr>\n          </thead>\n          <tbody>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 1</td>\n  <td class='p-2 text-xs text-white font-medium'>Chief of the Naval Staff (CNS)</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹180.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹18.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹90.00 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 2</td>\n  <td class='p-2 text-xs text-white font-medium'>Flag Officer Commanding-in-Chief (FOC-in-C) / VCNS</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹90.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹9.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹45.00 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 3</td>\n  <td class='p-2 text-xs text-white font-medium'>Fleet Commander / ASD (Naval Dockyard) / FOMA</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹27.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹2.70 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹13.50 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 4</td>\n  <td class='p-2 text-xs text-white font-medium'>Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC)</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹9.00 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹0.90 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹4.50 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 5</td>\n  <td class='p-2 text-xs text-white font-medium'>Commanding Officer (CO) — Capital Ship (Carrier / Destroyer / Frigate)</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹3.60 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹0.72 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹1.80 Cr</td>\n</tr>\n<tr class='hover:bg-[#112240]/50 border-b border-[#233554]/50'>\n  <td class='p-2 text-xs font-mono text-cyan-400 font-bold'>Tier 6</td>\n  <td class='p-2 text-xs text-white font-medium'>Commanding Officer (CO) — Minor War Vessel / Shore Base</td>\n  <td class='p-2 text-xs text-right text-[#FFD700] font-bold font-mono'>₹0.90 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-300 font-mono'>₹0.23 Cr</td>\n  <td class='p-2 text-xs text-right text-slate-400 font-mono'>₹0.45 Cr</td>\n</tr>\n</tbody>\n        </table>\n      </div>\n      <div class='mt-3 text-xs font-mono text-slate-400'>STATUTORY PROVISO: PAC / Single Tender procurement subject to specific justification certificates.</div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 03 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>",
+      "<section class='c4isr-slide relative w-full aspect-[16/9] bg-[#0A192F] text-slate-100 rounded-lg p-6 flex flex-col justify-between border border-[#233554] shadow-2xl overflow-hidden font-sans' data-slide-id='slide_04'>\n  <!-- Top Classification Banner -->\n  <header class='text-center text-[10px] tracking-widest font-bold text-red-500 uppercase border-b border-[#233554]/50 pb-1'>\n    RESTRICTED // FOR OFFICIAL USE ONLY\n  </header>\n\n  <!-- Slide Body Content -->\n  <div class='my-auto w-full'>\n        <div class='w-full'>\n      <h2 class='text-xl font-bold text-white mb-3 tracking-wide border-l-4 border-[#00E5FF] pl-3'>TENDERING &amp; CONCURRENCE POLICY MATRIX</h2>\n      <div class='overflow-x-auto rounded-lg border border-[#233554] bg-[#0A192F]'>\n        <table class='w-full border-collapse'>\n          <thead><tr><th class='p-2.5 text-left text-xs font-mono font-bold text-[#00E5FF] bg-[#112240] border-b border-[#233554]'>Parameter</th><th class='p-2.5 text-left text-xs font-mono font-bold text-[#00E5FF] bg-[#112240] border-b border-[#233554]'>Open Tender Enquiry (OTE)</th><th class='p-2.5 text-left text-xs font-mono font-bold text-[#00E5FF] bg-[#112240] border-b border-[#233554]'>Single Tender / PAC (STE)</th></tr></thead>\n          <tbody>\n<tr class='hover:bg-[#112240]/40 transition-colors'><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 font-semibold text-white'>Competition Requirement</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Minimum 3 competitive bids</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>PAC Certificate mandatory</td></tr>\n<tr class='hover:bg-[#112240]/40 transition-colors'><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 font-semibold text-white'>Financial Threshold</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Full delegated tier limit</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>50% of delegated tier limit</td></tr>\n<tr class='hover:bg-[#112240]/40 transition-colors'><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 font-semibold text-white'>IFA Concurrence</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Above without-IFA limit</td><td class='p-2.5 text-xs text-slate-200 border-b border-[#233554]/60 '>Mandatory for all PAC cases</td></tr>\n</tbody>\n        </table>\n      </div>\n      <div class='mt-3 text-xs font-mono text-[#FFD700]'>STATUTORY PRECEDENCE: DFPDS-2026 provisions prevail over general procurement provisions.</div>\n    </div>\n  </div>\n\n  <!-- Footer & Telemetry -->\n  <footer class='flex justify-between items-center text-[10px] font-mono text-slate-400 border-t border-[#233554]/50 pt-2'>\n    <span>011149Z SEP 2026</span>\n    <span>PROJECT ANCHOR // PAGE 04 OF 04</span>\n    <span class='text-red-500 font-bold uppercase'>RESTRICTED // FOR OFFICIAL USE ONLY</span>\n  </footer>\n</section>"
+    ],
+    "verification_report": {
+      "all_claims_verified": true,
+      "lowest_nli_score": 0.97,
+      "claims_count": 8,
+      "verified_claims_count": 8
+    },
+    "generated_at": "2026-09-01T11:49:20.590124+00:00"
+  }
+}

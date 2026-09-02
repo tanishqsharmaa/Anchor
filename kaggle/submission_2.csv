@@ -1,0 +1,20 @@
+id,prediction,pred_source,pred_section
+Q001,"Under DFPDS-2026 Schedule 01: Procurement of Capital Spares, Assemblies, and Armament Stores (DFPDS-2026/NAVY/SCH-01), a Chief of the Naval Staff (CNS) (Tier 1) may sanction up to ₹120.00 Crore with IFA concurrence.
+Statutory Note: Full financial powers with MoD (Finance) / IFA concurrence as per Annexure A.",DFPDS-2026/NAVY/SCH-01,Page 1
+Q002,"Under DFPDS-2026 Schedule 07: Ship Repairs, Refits, Dry-Docking, and Hull Preservation (DFPDS-2026/NAVY/SCH-07), a Fleet Commander / ASD (Naval Dockyard) / FOMA (Tier 3) may sanction up to ₹21.00 Crore with IFA concurrence.
+Statutory Note: Requires Command IFA concurrence for amounts exceeding without-IFA threshold.",DFPDS-2026/NAVY/SCH-07,Page 7
+Q003,"Under DFPDS-2026 Schedule 18: Special Infrastructure, Hardened Munitions Bunkers, and Security Fencing (DFPDS-2026/NAVY/SCH-18), a Chief Staff Officer (CSO) / Naval Officer-in-Charge (NOIC) (Tier 4) may sanction up to ₹0.80 Crore without IFA concurrence.
+Statutory Note: Exercisable for operational units within designated maritime sector.",DFPDS-2026/NAVY/SCH-18,Page 18
+Q004,[CERTIFIED ABSTENTION: UNVERIFIED_STATUTORY_CLAIM] The synthesized claims could not meet the mandatory NLI entailment threshold (>= 0.85) against source text.,DPM-2025,Mode: OTE
+Q005,"GOVERNMENT OF INDIA • MINISTRY OF DEFENCE
+DEFENCE PROCUREMENT MANUAL 2025 (DPM-2025)
+CHAPTER 04: CONTRACT GUARANTEES, LIQUIDATED DAMAGES & PENALTIES
+Reference Identifier:  DPM-2025/DMA/CH-04
+Core Subject Domains:  Performance Bank Guarantee (PBG) • Liquidated Damages (LD) • Warranty Clauses • Arbitr",DPM_2025_Chapter_04,Page 1
+Q006,[CERTIFIED ABSTENTION: UNVERIFIED_STATUTORY_CLAIM] The synthesized claims could not meet the mandatory NLI entailment threshold (>= 0.85) against source text.,DPM-2025,Mode: LD
+Q007,[CERTIFIED ABSTENTION: INSUFFICIENT_CORPUS_CONTEXT] No sufficiently relevant or authoritative clauses were found in the indexed regulatory corpus.,DFPDS-2026,General Provision
+Q008,[CERTIFIED ABSTENTION: UNVERIFIED_STATUTORY_CLAIM] The synthesized claims could not meet the mandatory NLI entailment threshold (>= 0.85) against source text.,DFPDS-2026,General Provision
+Q009,[CERTIFIED ABSTENTION: UNVERIFIED_STATUTORY_CLAIM] The synthesized claims could not meet the mandatory NLI entailment threshold (>= 0.85) against source text.,DFPDS-2026,General Provision
+Q010,[CERTIFIED ABSTENTION: UNVERIFIED_STATUTORY_CLAIM] The synthesized claims could not meet the mandatory NLI entailment threshold (>= 0.85) against source text.,DFPDS-2026,General Provision
+Q011,[CERTIFIED ABSTENTION: INSUFFICIENT_CORPUS_CONTEXT] No sufficiently relevant or authoritative clauses were found in the indexed regulatory corpus.,DFPDS-2026,General Provision
+Q012,[CERTIFIED ABSTENTION: OUT_OF_DOMAIN_QUERY] Schedule 99 is outside the statutory DFPDS-2026 range (Schedules 01–32).,DFPDS-2026/NAVY/SCH-99,Tier 2
