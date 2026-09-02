@@ -1,0 +1,47 @@
+# ==============================================================================
+# PROJECT ANCHOR - Submission Compliance Container Specification (Dockerfile-stub)
+# Target: INICAI Indian Navy AI Hackathon 2026 Evaluator Compliance
+# Note: In production, ANCHOR executes natively on Windows 11 (Arc 140V GPU / NPU 4.0)
+# ==============================================================================
+
+# Build Stage for Next.js Tactical Console
+FROM node:20-slim AS frontend-builder
+WORKDIR /app/console
+RUN corepack enable && corepack prepare pnpm@latest --activate
+COPY console/package.json console/pnpm-lock.yaml* ./
+RUN pnpm install --frozen-lockfile
+COPY console/ ./
+RUN pnpm build
+
+# Runtime Stage for Python Backend
+FROM python:3.12-slim AS runner
+WORKDIR /app
+
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    ANCHOR_HOST=0.0.0.0 \
+    ANCHOR_PORT=8000
+
+# Install system utilities
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install pinned Python dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy application source code
+COPY anchor/ /app/anchor/
+COPY data/ /app/data/
+COPY --from=frontend-builder /app/console/.next/standalone /app/console/
+COPY --from=frontend-builder /app/console/.next/static /app/console/.next/static
+COPY --from=frontend-builder /app/console/public /app/console/public
+
+EXPOSE 8000 3000
+
+# Non-root security user
+RUN useradd -m -u 1000 anchoruser && chown -R anchoruser:anchoruser /app
+USER anchoruser
+
+CMD ["uvicorn", "anchor.main:app", "--host", "0.0.0.0", "--port", "8000"]
