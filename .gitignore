@@ -1,0 +1,48 @@
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / Cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+coverage/
+htmlcov/
+
+# Node.js / Next.js
+node_modules/
+.next/
+out/
+build/
+dist/
+.pnpm-debug.log*
+
+# Large Binary Assets & Models (Redirected via NTFS Junction)
+models/
+data/pdfs/
+data/lancedb/
+data/tantivy/
+
+# SQLite WAL & Temporary Files
+data/sqlite/*.db-wal
+data/sqlite/*.db-shm
+*.db-journal
+
+# Local Environment Variables & Secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Operating System & IDE Artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
