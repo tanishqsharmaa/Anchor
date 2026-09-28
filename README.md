@@ -203,7 +203,3 @@ PROJECT ANCHOR enforces a non-negotiable mathematical quality contract via [`anc
 - **Memory Containment**: Peak RAM usage locked to $\le 12.5\text{ GB}$ on a 16 GB device via the Serialized Model Residency Manager.
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
